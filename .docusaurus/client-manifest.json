@@ -1,0 +1,630 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      6,
+      33,
+      47,
+      48,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      33,
+      47,
+      48,
+      2
+    ],
+    "styles": [
+      1,
+      2,
+      6,
+      33,
+      45,
+      46,
+      47,
+      48,
+      0
+    ],
+    "@site/docs/become-a-member.md": [
+      3
+    ],
+    "@site/docs/discord-bots.md": [
+      4
+    ],
+    "@site/docs/helping-docs.md": [
+      5
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      2,
+      47
+    ],
+    "@site/docs/community-social-media.md": [
+      7
+    ],
+    "@site/docs/comission-process.md": [
+      8
+    ],
+    "@site/docs/discord-getting-started.md": [
+      9
+    ],
+    "@site/docs/references.md": [
+      10
+    ],
+    "@site/docs/how-does-it-work.md": [
+      11
+    ],
+    "@site/docs/community-meetings.md": [
+      12
+    ],
+    "@site/docs/overview-intro.md": [
+      13
+    ],
+    "@site/docs/overview-molochv2-primer.md": [
+      14
+    ],
+    "@site/docs/interacting-with-escrow.md": [
+      15
+    ],
+    "@site/docs/summon-a-raid-party.md": [
+      16
+    ],
+    "@site/docs/overview-code-of-conduct.md": [
+      17
+    ],
+    "@site/docs/community-forum.md": [
+      18
+    ],
+    "@site/docs/client-instructions.md": [
+      19
+    ],
+    "@site/docs/join-a-save.md": [
+      20
+    ],
+    "@site/docs/discord-etiquette.md": [
+      21
+    ],
+    "@site/docs/proposal-types.md": [
+      22
+    ],
+    "@site/docs/discord-navigation-help.md": [
+      23
+    ],
+    "@site/docs/overview-raid-guild-shares.md": [
+      24
+    ],
+    "@site/docs/champion-a-member.md": [
+      25
+    ],
+    "~docs/savedao-docs-route-eea.json": [
+      26
+    ],
+    "@site/docs/migration-to-xdai.md": [
+      27
+    ],
+    "@site/docs/overview-roles.md": [
+      28
+    ],
+    "@site/docs/dispute.md": [
+      29
+    ],
+    "@site/docs/learn-about-web3.md": [
+      30
+    ],
+    "@site/docs/doc1.md": [
+      31
+    ],
+    "@site/docs/requesting-payment.md": [
+      32
+    ],
+    "@site/src/pages/index.js": [
+      0,
+      1,
+      2,
+      33
+    ],
+    "@site/docs/happy-path.md": [
+      34
+    ],
+    "@site/docs/mdx.md": [
+      35
+    ],
+    "@site/docs/ship.md": [
+      36
+    ],
+    "@site/docs/doc2.md": [
+      37
+    ],
+    "@site/docs/community-overview.md": [
+      38
+    ],
+    "@site/docs/glossary.md": [
+      39
+    ],
+    "@site/docs/convert-client-submission.md": [
+      40
+    ],
+    "@site/docs/lead-a-raid.md": [
+      41
+    ],
+    "@site/docs/become-an-apprentice.md": [
+      42
+    ],
+    "@site/docs/discord-channels.md": [
+      43
+    ],
+    "@site/docs/rips.md": [
+      44
+    ],
+    "main": [
+      0,
+      46,
+      45
+    ],
+    "runtime~main": [
+      0,
+      45,
+      46
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      47
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      2,
+      48
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.9890aeb8.css",
+          "hash": "b23300b2694df1c7914d",
+          "publicPath": "/savedao/styles.9890aeb8.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.38bd612b.js",
+          "hash": "b23300b2694df1c7914d",
+          "publicPath": "/savedao/styles.38bd612b.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.69f2a720.js",
+          "hash": "e2e41c5a1ad8393d4e51",
+          "publicPath": "/savedao/1.69f2a720.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.40d39e24.js",
+          "hash": "84863fa1087324d8656f",
+          "publicPath": "/savedao/2.40d39e24.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "0dcc4417.c68b184b.js",
+          "hash": "62ef780dfcad1510b79b",
+          "publicPath": "/savedao/0dcc4417.c68b184b.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "122897a5.3e0885fa.js",
+          "hash": "a211e5630829a7812b2d",
+          "publicPath": "/savedao/122897a5.3e0885fa.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "134889ee.27fca78e.js",
+          "hash": "0ea7daf671232327a700",
+          "publicPath": "/savedao/134889ee.27fca78e.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "1a6fe82b.16e8d4e7.js",
+          "hash": "3ac6456e7bf29e850422",
+          "publicPath": "/savedao/1a6fe82b.16e8d4e7.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "1a8603ea.4ea9e87c.js",
+          "hash": "66316410981d88ceab3f",
+          "publicPath": "/savedao/1a8603ea.4ea9e87c.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "21570101.d40bc51d.js",
+          "hash": "9b99f9196f3f12a45f41",
+          "publicPath": "/savedao/21570101.d40bc51d.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "33a69f45.29a33e61.js",
+          "hash": "233ce64ed7d1199e4718",
+          "publicPath": "/savedao/33a69f45.29a33e61.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "41555449.cae20b76.js",
+          "hash": "3c217ea741a6ae9e5f7f",
+          "publicPath": "/savedao/41555449.cae20b76.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "464e8d49.4cf40357.js",
+          "hash": "ff4ecb00110eaa25f0a8",
+          "publicPath": "/savedao/464e8d49.4cf40357.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "495031a0.46a51956.js",
+          "hash": "1675d438090245fd76ba",
+          "publicPath": "/savedao/495031a0.46a51956.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "50a576c9.d1b611c5.js",
+          "hash": "e3f15d635f2e313410a5",
+          "publicPath": "/savedao/50a576c9.d1b611c5.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "55052e8a.16504d73.js",
+          "hash": "58c85c11f621a86337db",
+          "publicPath": "/savedao/55052e8a.16504d73.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "63faac15.8aa12711.js",
+          "hash": "6cfc31b047a0d9c7c5c5",
+          "publicPath": "/savedao/63faac15.8aa12711.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "6706f97c.d08ad2ee.js",
+          "hash": "8d49942c3024ca9e1f2e",
+          "publicPath": "/savedao/6706f97c.d08ad2ee.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "6e62a65b.79238656.js",
+          "hash": "eec4aa4c94c4f00c5377",
+          "publicPath": "/savedao/6e62a65b.79238656.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "737e94be.db89c137.js",
+          "hash": "c5329bd2ba1d64c396a4",
+          "publicPath": "/savedao/737e94be.db89c137.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "73ce1262.a9981579.js",
+          "hash": "9db4f11fa9f34f75bda8",
+          "publicPath": "/savedao/73ce1262.a9981579.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "77820b1d.cdfdf739.js",
+          "hash": "cb58baeed90341648859",
+          "publicPath": "/savedao/77820b1d.cdfdf739.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "7bc48272.e3a35e78.js",
+          "hash": "9c47c1af698ea916ae2c",
+          "publicPath": "/savedao/7bc48272.e3a35e78.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "8288cb81.9d1967e9.js",
+          "hash": "4e41028924c0b7806d23",
+          "publicPath": "/savedao/8288cb81.9d1967e9.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "845927bc.256803d7.js",
+          "hash": "a3da8f124c038b0e9ec6",
+          "publicPath": "/savedao/845927bc.256803d7.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "8cf67af2.265df8b9.js",
+          "hash": "987f5c41141f73e3d5ae",
+          "publicPath": "/savedao/8cf67af2.265df8b9.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "948c12df.2e9cdc85.js",
+          "hash": "0d2cbb2cfc9caff58f2a",
+          "publicPath": "/savedao/948c12df.2e9cdc85.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "ad520703.71b4f085.js",
+          "hash": "76de9cfaa5fee81aef1c",
+          "publicPath": "/savedao/ad520703.71b4f085.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "afa8499f.077ee943.js",
+          "hash": "94bf351bfedf2afec1f7",
+          "publicPath": "/savedao/afa8499f.077ee943.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "b008331d.75ea3905.js",
+          "hash": "a71907032c441f6ae838",
+          "publicPath": "/savedao/b008331d.75ea3905.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "b17e14c3.70ee7e93.js",
+          "hash": "ddfd9234570638bcdbeb",
+          "publicPath": "/savedao/b17e14c3.70ee7e93.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "b2f90839.17e6f79c.js",
+          "hash": "54fdf4cb42a04c082d75",
+          "publicPath": "/savedao/b2f90839.17e6f79c.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "b6bdd299.18b08f90.js",
+          "hash": "69a018e692435ee45af2",
+          "publicPath": "/savedao/b6bdd299.18b08f90.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "c4f5d8e4.cac618c4.js",
+          "hash": "70b610e5f3afd1d5d045",
+          "publicPath": "/savedao/c4f5d8e4.cac618c4.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "c878a486.02a20c85.js",
+          "hash": "e3ed2b097e8e765e3c58",
+          "publicPath": "/savedao/c878a486.02a20c85.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "ce3e42ad.d552ed0d.js",
+          "hash": "8349d0daf9145f912088",
+          "publicPath": "/savedao/ce3e42ad.d552ed0d.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "dd17fcd0.1faa4fbe.js",
+          "hash": "c201a4fe43ba59dacb44",
+          "publicPath": "/savedao/dd17fcd0.1faa4fbe.js"
+        }
+      ]
+    },
+    "37": {
+      "js": [
+        {
+          "file": "df361e2b.7d26a6bd.js",
+          "hash": "0c0ad67c5d0182d832a2",
+          "publicPath": "/savedao/df361e2b.7d26a6bd.js"
+        }
+      ]
+    },
+    "38": {
+      "js": [
+        {
+          "file": "e1a64283.fd84ef02.js",
+          "hash": "9049d5024abb3037184b",
+          "publicPath": "/savedao/e1a64283.fd84ef02.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "e747ec83.89c13234.js",
+          "hash": "1aa0b5128ab1f2783e61",
+          "publicPath": "/savedao/e747ec83.89c13234.js"
+        }
+      ]
+    },
+    "40": {
+      "js": [
+        {
+          "file": "e9b7d890.4b8efc93.js",
+          "hash": "ce003b372d19149cc34b",
+          "publicPath": "/savedao/e9b7d890.4b8efc93.js"
+        }
+      ]
+    },
+    "41": {
+      "js": [
+        {
+          "file": "f3b048c7.3aa0f059.js",
+          "hash": "2313a736ea050ce16a02",
+          "publicPath": "/savedao/f3b048c7.3aa0f059.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "f4cbc76d.820fbdc2.js",
+          "hash": "353c53fa41372f815379",
+          "publicPath": "/savedao/f4cbc76d.820fbdc2.js"
+        }
+      ]
+    },
+    "43": {
+      "js": [
+        {
+          "file": "f86e6e1d.2ebe7d3c.js",
+          "hash": "8e7a63ec1bc45f47c0e1",
+          "publicPath": "/savedao/f86e6e1d.2ebe7d3c.js"
+        }
+      ]
+    },
+    "44": {
+      "js": [
+        {
+          "file": "fe1eead2.854cf09f.js",
+          "hash": "b3c73178bc732f511060",
+          "publicPath": "/savedao/fe1eead2.854cf09f.js"
+        }
+      ]
+    },
+    "45": {
+      "js": [
+        {
+          "file": "main.72477d12.js",
+          "hash": "b190fad6fd5edf395e87",
+          "publicPath": "/savedao/main.72477d12.js"
+        }
+      ]
+    },
+    "46": {
+      "js": [
+        {
+          "file": "runtime~main.6fc3f3a1.js",
+          "hash": "5ecc3e21a18bfb3ad6e6",
+          "publicPath": "/savedao/runtime~main.6fc3f3a1.js"
+        }
+      ]
+    },
+    "47": {
+      "js": [
+        {
+          "file": "47.cea5d50f.js",
+          "hash": "52639549940c9b15fdd7",
+          "publicPath": "/savedao/47.cea5d50f.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "48.5a04ffad.js",
+          "hash": "a4763f783772b7946ef1",
+          "publicPath": "/savedao/48.5a04ffad.js"
+        }
+      ]
+    }
+  }
+}

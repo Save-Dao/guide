@@ -1,0 +1,18 @@
+{
+  "id": "overview-code-of-conduct",
+  "title": "Code of Conduct",
+  "description": "Before we dive in, here is a quick code of conduct to keep in mind:",
+  "source": "@site/docs/overview-code-of-conduct.md",
+  "permalink": "/savedao/docs/overview-code-of-conduct",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-code-of-conduct.md",
+  "sidebar_label": "Code of Conduct",
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Intro",
+    "permalink": "/savedao/docs/overview"
+  },
+  "next": {
+    "title": "Moloch V2",
+    "permalink": "/savedao/docs/overview-molochv2-primer"
+  }
+}

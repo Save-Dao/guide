@@ -1,0 +1,18 @@
+{
+  "id": "proposal-types",
+  "title": "Proposal Types",
+  "description": "Members can make a number of different proposals including:",
+  "source": "@site/docs/proposal-types.md",
+  "permalink": "/savedao/docs/proposal-types",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/proposal-types.md",
+  "sidebar_label": "Proposal Types",
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "RIPs",
+    "permalink": "/savedao/docs/rips"
+  },
+  "next": {
+    "title": "Etiquette",
+    "permalink": "/savedao/docs/discord-etiquette"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "shipped",
+  "title": "Ship a Raid",
+  "description": "Shipped",
+  "source": "@site/docs/ship.md",
+  "permalink": "/savedao/docs/shipped",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/ship.md",
+  "sidebar_label": "Ship a Raid",
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Lead a Raid",
+    "permalink": "/savedao/docs/lead-a-raid"
+  },
+  "next": {
+    "title": "RIPs",
+    "permalink": "/savedao/docs/rips"
+  }
+}

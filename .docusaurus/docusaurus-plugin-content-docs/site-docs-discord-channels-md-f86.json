@@ -1,0 +1,18 @@
+{
+  "id": "discord-channels",
+  "title": "Channels",
+  "description": "Within the Raid Guild Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.",
+  "source": "@site/docs/discord-channels.md",
+  "permalink": "/savedao/docs/discord-channels",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-channels.md",
+  "sidebar_label": "Channels",
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/savedao/docs/discord-getting-started"
+  },
+  "next": {
+    "title": "Navigation",
+    "permalink": "/savedao/docs/discord-navigation-help"
+  }
+}

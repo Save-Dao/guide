@@ -1,0 +1,272 @@
+{
+  "docsSidebars": {
+    "howSidebar": [
+      {
+        "type": "category",
+        "label": "Overview",
+        "items": [
+          {
+            "type": "link",
+            "label": "Intro",
+            "href": "/savedao/docs/overview"
+          },
+          {
+            "type": "link",
+            "label": "Code of Conduct",
+            "href": "/savedao/docs/overview-code-of-conduct"
+          },
+          {
+            "type": "link",
+            "label": "Moloch V2",
+            "href": "/savedao/docs/overview-molochv2-primer"
+          },
+          {
+            "type": "link",
+            "label": "Raid Guild Shares",
+            "href": "/savedao/docs/overview-raid-guild-shares"
+          },
+          {
+            "type": "link",
+            "label": "Roles",
+            "href": "/savedao/docs/overview-roles"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Membership",
+        "items": [
+          {
+            "type": "link",
+            "label": "Become an Apprentice",
+            "href": "/savedao/docs/become-an-apprentice"
+          },
+          {
+            "type": "link",
+            "label": "Become a Member",
+            "href": "/savedao/docs/become-a-member"
+          },
+          {
+            "type": "link",
+            "label": "Champion a New Member",
+            "href": "/savedao/docs/champion-a-member"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Saves",
+        "items": [
+          {
+            "type": "link",
+            "label": "Convert Client Submission Into a SAVE",
+            "href": "/savedao/docs/convert-client-submission"
+          },
+          {
+            "type": "link",
+            "label": "Commission Process",
+            "href": "/savedao/docs/commission-process"
+          },
+          {
+            "type": "category",
+            "label": "Escrow",
+            "items": [
+              {
+                "type": "link",
+                "label": "How Does It Work?",
+                "href": "/savedao/docs/how-does-it-work"
+              },
+              {
+                "type": "link",
+                "label": "Happy Path",
+                "href": "/savedao/docs/happy-path"
+              },
+              {
+                "type": "link",
+                "label": "In Case of Dispute",
+                "href": "/savedao/docs/dispute"
+              },
+              {
+                "type": "link",
+                "label": "Interacting With the Escrow",
+                "href": "/savedao/docs/interacting-with-escrow"
+              },
+              {
+                "type": "link",
+                "label": "Instructions for Client Payment",
+                "href": "/savedao/docs/client-instructions"
+              },
+              {
+                "type": "link",
+                "label": "References",
+                "href": "/savedao/docs/references"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "Summon a Raid Party",
+            "href": "/savedao/docs/summon-a-raid-party"
+          },
+          {
+            "type": "link",
+            "label": "Join a Raid",
+            "href": "/savedao/docs/join-a-raid"
+          },
+          {
+            "type": "link",
+            "label": "Lead a Raid",
+            "href": "/savedao/docs/lead-a-raid"
+          },
+          {
+            "type": "link",
+            "label": "Ship a Raid",
+            "href": "/savedao/docs/shipped"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Operations",
+        "items": [
+          {
+            "type": "link",
+            "label": "RIPs",
+            "href": "/savedao/docs/rips"
+          },
+          {
+            "type": "link",
+            "label": "Proposal Types",
+            "href": "/savedao/docs/proposal-types"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Discord",
+        "items": [
+          {
+            "type": "link",
+            "label": "Etiquette",
+            "href": "/savedao/docs/discord-etiquette"
+          },
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/savedao/docs/discord-getting-started"
+          },
+          {
+            "type": "link",
+            "label": "Channels",
+            "href": "/savedao/docs/discord-channels"
+          },
+          {
+            "type": "link",
+            "label": "Navigation",
+            "href": "/savedao/docs/discord-navigation-help"
+          },
+          {
+            "type": "link",
+            "label": "Discord Bots",
+            "href": "/savedao/docs/discord-bots"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Community",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/savedao/docs/community-overview"
+          },
+          {
+            "type": "link",
+            "label": "Meetings",
+            "href": "/savedao/docs/community-meetings"
+          },
+          {
+            "type": "link",
+            "label": "community-forum",
+            "href": "/savedao/docs/community-forum"
+          },
+          {
+            "type": "link",
+            "label": "Socials + Media",
+            "href": "/savedao/docs/community-social-media"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Additional Resources",
+        "items": [
+          {
+            "type": "link",
+            "label": "Learn About Web3",
+            "href": "/savedao/docs/learn-about-web3"
+          },
+          {
+            "type": "link",
+            "label": "Glossary",
+            "href": "/savedao/docs/glossary"
+          },
+          {
+            "type": "link",
+            "label": "Getting Paid",
+            "href": "/savedao/docs/requesting-payment"
+          },
+          {
+            "type": "link",
+            "label": "Migration to xDAI",
+            "href": "/savedao/docs/migration-to-xdai"
+          },
+          {
+            "type": "link",
+            "label": "How Tos",
+            "href": "/savedao/docs/helping-docs"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/savedao/docs/become-a-member": "howSidebar",
+    "/savedao/docs/become-an-apprentice": "howSidebar",
+    "/savedao/docs/champion-a-member": "howSidebar",
+    "/savedao/docs/client-instructions": "howSidebar",
+    "/savedao/docs/commission-process": "howSidebar",
+    "/savedao/docs/community-forum": "howSidebar",
+    "/savedao/docs/community-meetings": "howSidebar",
+    "/savedao/docs/community-overview": "howSidebar",
+    "/savedao/docs/community-social-media": "howSidebar",
+    "/savedao/docs/convert-client-submission": "howSidebar",
+    "/savedao/docs/discord-bots": "howSidebar",
+    "/savedao/docs/discord-channels": "howSidebar",
+    "/savedao/docs/discord-etiquette": "howSidebar",
+    "/savedao/docs/discord-getting-started": "howSidebar",
+    "/savedao/docs/discord-navigation-help": "howSidebar",
+    "/savedao/docs/dispute": "howSidebar",
+    "/savedao/docs/glossary": "howSidebar",
+    "/savedao/docs/happy-path": "howSidebar",
+    "/savedao/docs/helping-docs": "howSidebar",
+    "/savedao/docs/how-does-it-work": "howSidebar",
+    "/savedao/docs/interacting-with-escrow": "howSidebar",
+    "/savedao/docs/join-a-raid": "howSidebar",
+    "/savedao/docs/lead-a-raid": "howSidebar",
+    "/savedao/docs/learn-about-web3": "howSidebar",
+    "/savedao/docs/migration-to-xdai": "howSidebar",
+    "/savedao/docs/overview": "howSidebar",
+    "/savedao/docs/overview-code-of-conduct": "howSidebar",
+    "/savedao/docs/overview-molochv2-primer": "howSidebar",
+    "/savedao/docs/overview-raid-guild-shares": "howSidebar",
+    "/savedao/docs/overview-roles": "howSidebar",
+    "/savedao/docs/proposal-types": "howSidebar",
+    "/savedao/docs/references": "howSidebar",
+    "/savedao/docs/requesting-payment": "howSidebar",
+    "/savedao/docs/rips": "howSidebar",
+    "/savedao/docs/shipped": "howSidebar",
+    "/savedao/docs/summon-a-raid-party": "howSidebar"
+  }
+}

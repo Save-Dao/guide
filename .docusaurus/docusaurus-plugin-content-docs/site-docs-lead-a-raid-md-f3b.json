@@ -1,0 +1,18 @@
+{
+  "id": "lead-a-raid",
+  "title": "Lead a Raid",
+  "description": "Well well well! Welcome to the big leagues.",
+  "source": "@site/docs/lead-a-raid.md",
+  "permalink": "/savedao/docs/lead-a-raid",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/lead-a-raid.md",
+  "sidebar_label": "Lead a Raid",
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Join a Raid",
+    "permalink": "/savedao/docs/join-a-raid"
+  },
+  "next": {
+    "title": "Ship a Raid",
+    "permalink": "/savedao/docs/shipped"
+  }
+}
