@@ -26,9 +26,9 @@ module.exports = {
           "references",
         ],
       },
-      "summon-a-raid-party",
-      "join-a-raid",
-      "lead-a-raid",
+      "summon-a-SAVE-party",
+      "join-a-save",
+      "lead-a-save",
       "shipped", 
     ],
     "Operations": [

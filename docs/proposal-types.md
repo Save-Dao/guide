@@ -16,7 +16,7 @@ Members can make a number of different proposals including:
 
 ### Proposal Process
 
-To submit a proposal, navigate to the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f) and select “View Proposals” followed by New Proposal.
+To submit a proposal, navigate to the [Save DAO](https://app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7) and select “View Proposals” followed by New Proposal.
 
 Select the Proposal Type (described above) and fill in all fields. Here are some of the things you’ll want to keep in mind when filling out a proposal.
 
