@@ -4,9 +4,9 @@ title: Commission Process
 sidebar_label: Commission Process
 ---
 
-After the Save enters Prepping for Battle, the Cleric who led the consultation is responsible for gathering additional Saveers as is necessary to scope out the full project. 
+After the Save enters Prepping for Campaign, the Cleric who led the consultation is responsible for gathering additional Saveers as is necessary to scope out the full project. 
 
-All Saveers who participate in the `Prepping for Battle` phase are entitled to compensation, right now that is 3% of the project budget that will be allocated as a commission to the Saveers involved.
+All Saveers who participate in the `Prepping for Campaign` phase are entitled to compensation, right now that is 3% of the project budget that will be allocated as a commission to the Saveers involved.
 
 This commission comes out of the client payment for the project itself, keep in mind this is separate from the consultation fee.
 

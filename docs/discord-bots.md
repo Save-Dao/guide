@@ -4,11 +4,11 @@ title: Discord Bots
 sidebar_label: Discord Bots
 ---
 
-_Do Raid Guild Bots Dream of Electric Tweets?_
+_Do Save Dao Bots Dream of Electric Tweets?_
 
-The Raid Guild relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Raid Guild Discord Server.](https://discord.gg/RWjkQ6DNnv)
+The Save Dao relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Save Dao Discord Server.]  (https://discord.gg/G2sXhQCpGg)
 
-## Collab.land
+## Collab.land SOON 
 
 > Collab.Land allows anyone to utilize tokenized community management systems to create incentive alignment, automate processes, and reward participation.
 
@@ -24,7 +24,7 @@ Here's a link to [Collab.land](https://collab.land/) if you'd like to learn more
 
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/fiVEyVsR7k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Groovy
+## Groovy SOON
 
 Groovy is a music playing bot.
 
@@ -38,21 +38,8 @@ A list of of Groovy commands can be seen below:
 
 [https://groovy.zendesk.com/hc/en-us/articles/360060721952](https://groovy.zendesk.com/hc/en-us/articles/360060721952)
 
-## Friend Time
 
-With Friend Time you can easily coordinate times between users.
-
-Friend Time will automatically react with a clock emoji (🕰️) to times mentioned in chat:
-
-[https://docs.friendtime.ml/](https://docs.friendtime.ml/)
-
-To set your timezone type "-ft map" After that, you will be take to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
-
-```jsx
--ft set <pasted time zone>
-```
-
-## BrightID Discord Bot
+## BrightID Discord Bot SOON
 
 Verify users with Bright ID.
 
@@ -80,13 +67,22 @@ Interacting with the bot is simple; it offers 2 commands
 3. Use an app that has sponsorships. See [https://explorer.brightid.org/apps/index.html](https://explorer.brightid.org/apps/index.html)
 4. Type !me
 
-## MG-Skillbot
+## MEE6
 
-Skillbot is used in the Raid Guild to make it easier for members to connect with people based on their skills. It is used to find people and help other to be found based on your roles in the guild.
+Setup moderation, social alerts, leveling and much more on https://mee6.xyz/
 
-An excellent tutorial can be found at
+  15% OFF on MEE6 Premium Lifetime plan with coupon code: LIFETIMENY22
+https://mee6.xyz/premium## MEE6
 
-[https://hackmd.io/Fs_mnbS3R1qt3MXCyHwwew?view](https://hackmd.io/Fs_mnbS3R1qt3MXCyHwwew?view)
+Setup moderation, social alerts, leveling and much more on https://mee6.xyz/
+
+  15% OFF on MEE6 Premium Lifetime plan with coupon code: LIFETIMENY22
+https://mee6.xyz/premium
+
+## Wick
+
+Discord Security Bot made to protect servers from raids, nukes and more things!
+https://wickbot.com/
 
 ## xDai Faucet
 
@@ -96,33 +92,18 @@ xDai Faucet is a place you can recieve xDai deposited to your wallet
 
 Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
-## Sesh
+## carl-bot
 
-😀EZPZ event creation
+😀Multipurpose bot packed with features
 
-- Specify times however the hell you want. No more rigid formats to follow.
-- Simple RSVP via reactions, plus reminders (optional).
-- Wanna play Fortnite in a fortnight? We support you.
-
-[https://sesh.fyi/](https://sesh.fyi/)
-
-[https://sesh.fyi/manual/](https://sesh.fyi/manual/)
-
-<iframe src="https://sesh.fyi/manual/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
-
-## Suggestion Bot.
-
-Suggestion bot is a way to submit suggestions or thoughts on how to improve the community. It has anonymity built into it to further support the idea that all participants are welcome and are encouraged to share their input.
-
-To engage, DM the bot:
-
-```jsx
-!suggest <anonymous message>
-```
+Website: https://carl.gg/
+Docs: https://docs.carl.gg/
+Support: https://discord.gg/S2ZkBTnd8X
+Partner bots: https://botlabs.gg/bots
 
 ## Haus Bot
 
-This bot is operating on Raid Guild discord channels #dao-verified, #uh-notifications and #haus-of-daos for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
+This bot is operating on Save Dao discord channels #general for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
 
 - the name fo the proposal
 - a short description of the proposal
@@ -137,8 +118,8 @@ It is a notification bot that announces new DAO summons & proposals
 
 Three cheers to vengist#8655 for creating the bot
 
-## Sentry
+## Taco bot
 
-Sentry bot is built for raid guild’s own internal purpose and it’s both a bot and a server
+This is a bot to connect our trello project management
 
-[https://hackmd.io/@saimano/sentry](https://hackmd.io/@saimano/sentry)
+(https://tacobot.app/guide/webhooks/)

@@ -6,8 +6,8 @@ sidebar_label: Socials + Media
 
 Here you can find the official Raid Guild social & Media channels.
 
--   [Discord](https://discord.gg/Z2PMbXN)
--   [Github](https://github.com/raid-guild/)
--   [Twitter](https://twitter.com/RaidGuild) - @RaidGuild
--   [LinkedIn](https://www.linkedin.com/company/raid-guild/mycompany/)
--   Newsletter - [Substack](https://raidguild.substack.com/) & [Medium](https://medium.com/raid-guild)
+-   [Discord](https://discord.gg/G2sXhQCpGg)
+-   [Github](https://github.com/savedao/gh-pages)
+-   [Twitter](https://twitter.com/adbongogroupllc) - @adbongogroupllc
+-   [Medium](https://medium.com/zero-waste-advocacy-iot)
+-   Newsletter - [Substack](https://substack.com/profile/31283326-golden-age-advocacy) 
