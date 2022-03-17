@@ -34,7 +34,7 @@ const features = [
         description: (
             <>
                 How we collaborate and coordinate is the most important thing
-                for Raid Guild's success. Inside you'll find the tools and
+                for Save Dao's success. Inside you'll find the tools and
                 processes we use to keep organized.
             </>
         ),

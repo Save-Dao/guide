@@ -1,5 +1,5 @@
 module.exports = {
-    title: "MIO Grimoire",
+    title: "Save Guide",
     tagline: "Magical Internet Organization Grimoire",
     url: "https://github.com",
     baseUrl: "/guide/",
@@ -21,8 +21,8 @@ module.exports = {
                 //   position: "left"
                 // },
                 {
-                    href: "https://raidguild.org",
-                    label: "Dot Org",
+                    href: "https://www.adbongo.io",
+                    label: "Main Site",
                     position: "right",
                 },
             ],
@@ -36,24 +36,24 @@ module.exports = {
             //     items: [
             //       {
             //         label: "Homepage",
-            //         href: "https://raidguild.org"
+            //         href: "https://www.adbongo.io"
             //       },
             //       {
             //         label: "DAO",
-            //         href: "https://twitter.com/RaidGuild"
+            //         href: "https://twitter.com/adbongogroupllc"
             //       },
             //       {
             //         label: "Twitter",
-            //         href: "https://twitter.com/RaidGuild"
+            //         href: "https://twitter.com/adbongogroupllc"
             //       },
             //       {
             //         label: "GitHub",
-            //         href: "https://github.com/raid-guild"
+            //         href: "https://github.com/save-dao"
             //       }
             //     ]
             //   }
             // ],
-            copyright: `Copyright © ${new Date().getFullYear()} RaidGuild, DAO`,
+            copyright: `Copyright © ${new Date().getFullYear()} SAVE, DAO`,
         },
     },
     presets: [

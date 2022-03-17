@@ -4,7 +4,7 @@ Your edits in this file will be overwritten in the next build!
 Modify the docusaurus.config.js file at your site's root instead.
 */
 export default {
-  "title": "MIO Grimoire",
+  "title": "Save Guide",
   "tagline": "Magical Internet Organization Grimoire",
   "url": "https://github.com",
   "baseUrl": "/guide/",
@@ -20,8 +20,8 @@ export default {
       },
       "items": [
         {
-          "href": "https://raidguild.org",
-          "label": "Dot Org",
+          "href": "https://www.adbongo.io",
+          "label": "Main Site",
           "position": "right"
         }
       ],
@@ -29,7 +29,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2022 RaidGuild, DAO",
+      "copyright": "Copyright © 2022 SAVE, DAO",
       "links": []
     },
     "colorMode": {
@@ -56,11 +56,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\latin\\Documents\\guide\\sidebars.js",
+          "sidebarPath": "/Users/baba/Documents/GitHub/guide/sidebars.js",
           "editUrl": "https://github.com/raid-guild/handbook/edit/master/"
         },
         "theme": {
-          "customCss": "C:\\Users\\latin\\Documents\\guide\\src\\css\\custom.css"
+          "customCss": "/Users/baba/Documents/GitHub/guide/src/css/custom.css"
         }
       }
     ]
