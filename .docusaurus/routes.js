@@ -4,248 +4,248 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/savedao/blog/archive',
-    component: ComponentCreator('/savedao/blog/archive','bcf'),
+    path: '/guide/blog/archive',
+    component: ComponentCreator('/guide/blog/archive','c11'),
     exact: true
   },
   {
-    path: '/savedao/docs',
-    component: ComponentCreator('/savedao/docs','cfc'),
+    path: '/guide/docs',
+    component: ComponentCreator('/guide/docs','3b9'),
     routes: [
       {
-        path: '/savedao/docs/become-a-member',
-        component: ComponentCreator('/savedao/docs/become-a-member','a09'),
+        path: '/guide/docs/become-a-member',
+        component: ComponentCreator('/guide/docs/become-a-member','21e'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/become-an-apprentice',
-        component: ComponentCreator('/savedao/docs/become-an-apprentice','bfb'),
+        path: '/guide/docs/become-an-apprentice',
+        component: ComponentCreator('/guide/docs/become-an-apprentice','9fe'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/champion-a-member',
-        component: ComponentCreator('/savedao/docs/champion-a-member','e30'),
+        path: '/guide/docs/champion-a-member',
+        component: ComponentCreator('/guide/docs/champion-a-member','0fe'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/client-instructions',
-        component: ComponentCreator('/savedao/docs/client-instructions','3ff'),
+        path: '/guide/docs/client-instructions',
+        component: ComponentCreator('/guide/docs/client-instructions','b66'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/commission-process',
-        component: ComponentCreator('/savedao/docs/commission-process','01a'),
+        path: '/guide/docs/commission-process',
+        component: ComponentCreator('/guide/docs/commission-process','6b8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/community-forum',
-        component: ComponentCreator('/savedao/docs/community-forum','6df'),
+        path: '/guide/docs/community-forum',
+        component: ComponentCreator('/guide/docs/community-forum','6fe'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/community-meetings',
-        component: ComponentCreator('/savedao/docs/community-meetings','d7a'),
+        path: '/guide/docs/community-meetings',
+        component: ComponentCreator('/guide/docs/community-meetings','648'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/community-overview',
-        component: ComponentCreator('/savedao/docs/community-overview','8e9'),
+        path: '/guide/docs/community-overview',
+        component: ComponentCreator('/guide/docs/community-overview','6b1'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/community-social-media',
-        component: ComponentCreator('/savedao/docs/community-social-media','1f6'),
+        path: '/guide/docs/community-social-media',
+        component: ComponentCreator('/guide/docs/community-social-media','258'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/convert-client-submission',
-        component: ComponentCreator('/savedao/docs/convert-client-submission','e0e'),
+        path: '/guide/docs/convert-client-submission',
+        component: ComponentCreator('/guide/docs/convert-client-submission','472'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/discord-bots',
-        component: ComponentCreator('/savedao/docs/discord-bots','74c'),
+        path: '/guide/docs/discord-bots',
+        component: ComponentCreator('/guide/docs/discord-bots','cc1'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/discord-channels',
-        component: ComponentCreator('/savedao/docs/discord-channels','4f8'),
+        path: '/guide/docs/discord-channels',
+        component: ComponentCreator('/guide/docs/discord-channels','330'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/discord-etiquette',
-        component: ComponentCreator('/savedao/docs/discord-etiquette','eb7'),
+        path: '/guide/docs/discord-etiquette',
+        component: ComponentCreator('/guide/docs/discord-etiquette','aff'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/discord-getting-started',
-        component: ComponentCreator('/savedao/docs/discord-getting-started','66e'),
+        path: '/guide/docs/discord-getting-started',
+        component: ComponentCreator('/guide/docs/discord-getting-started','daf'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/discord-navigation-help',
-        component: ComponentCreator('/savedao/docs/discord-navigation-help','d80'),
+        path: '/guide/docs/discord-navigation-help',
+        component: ComponentCreator('/guide/docs/discord-navigation-help','61f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/dispute',
-        component: ComponentCreator('/savedao/docs/dispute','3ad'),
+        path: '/guide/docs/dispute',
+        component: ComponentCreator('/guide/docs/dispute','cf0'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/doc1',
-        component: ComponentCreator('/savedao/docs/doc1','069'),
+        path: '/guide/docs/doc1',
+        component: ComponentCreator('/guide/docs/doc1','ac4'),
         exact: true
       },
       {
-        path: '/savedao/docs/doc2',
-        component: ComponentCreator('/savedao/docs/doc2','325'),
+        path: '/guide/docs/doc2',
+        component: ComponentCreator('/guide/docs/doc2','dc5'),
         exact: true
       },
       {
-        path: '/savedao/docs/glossary',
-        component: ComponentCreator('/savedao/docs/glossary','175'),
+        path: '/guide/docs/glossary',
+        component: ComponentCreator('/guide/docs/glossary','c00'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/happy-path',
-        component: ComponentCreator('/savedao/docs/happy-path','b7c'),
+        path: '/guide/docs/happy-path',
+        component: ComponentCreator('/guide/docs/happy-path','efd'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/helping-docs',
-        component: ComponentCreator('/savedao/docs/helping-docs','d6b'),
+        path: '/guide/docs/helping-docs',
+        component: ComponentCreator('/guide/docs/helping-docs','bd4'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/how-does-it-work',
-        component: ComponentCreator('/savedao/docs/how-does-it-work','334'),
+        path: '/guide/docs/how-does-it-work',
+        component: ComponentCreator('/guide/docs/how-does-it-work','e85'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/interacting-with-escrow',
-        component: ComponentCreator('/savedao/docs/interacting-with-escrow','524'),
+        path: '/guide/docs/interacting-with-escrow',
+        component: ComponentCreator('/guide/docs/interacting-with-escrow','59b'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/join-a-raid',
-        component: ComponentCreator('/savedao/docs/join-a-raid','0e3'),
+        path: '/guide/docs/join-a-raid',
+        component: ComponentCreator('/guide/docs/join-a-raid','0de'),
         exact: true
       },
       {
-        path: '/savedao/docs/lead-a-save',
-        component: ComponentCreator('/savedao/docs/lead-a-save','cc7'),
+        path: '/guide/docs/lead-a-save',
+        component: ComponentCreator('/guide/docs/lead-a-save','b9d'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/learn-about-web3',
-        component: ComponentCreator('/savedao/docs/learn-about-web3','a37'),
+        path: '/guide/docs/learn-about-web3',
+        component: ComponentCreator('/guide/docs/learn-about-web3','b33'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/mdx',
-        component: ComponentCreator('/savedao/docs/mdx','680'),
+        path: '/guide/docs/mdx',
+        component: ComponentCreator('/guide/docs/mdx','d15'),
         exact: true
       },
       {
-        path: '/savedao/docs/migration-to-xdai',
-        component: ComponentCreator('/savedao/docs/migration-to-xdai','9d9'),
+        path: '/guide/docs/migration-to-xdai',
+        component: ComponentCreator('/guide/docs/migration-to-xdai','68f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/overview',
-        component: ComponentCreator('/savedao/docs/overview','854'),
+        path: '/guide/docs/overview',
+        component: ComponentCreator('/guide/docs/overview','5df'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/overview-code-of-conduct',
-        component: ComponentCreator('/savedao/docs/overview-code-of-conduct','aa8'),
+        path: '/guide/docs/overview-code-of-conduct',
+        component: ComponentCreator('/guide/docs/overview-code-of-conduct','fdd'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/overview-molochv2-primer',
-        component: ComponentCreator('/savedao/docs/overview-molochv2-primer','d7f'),
+        path: '/guide/docs/overview-molochv2-primer',
+        component: ComponentCreator('/guide/docs/overview-molochv2-primer','aa8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/overview-roles',
-        component: ComponentCreator('/savedao/docs/overview-roles','a11'),
+        path: '/guide/docs/overview-roles',
+        component: ComponentCreator('/guide/docs/overview-roles','93b'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/overview-save-guild-shares',
-        component: ComponentCreator('/savedao/docs/overview-save-guild-shares','212'),
+        path: '/guide/docs/overview-save-guild-shares',
+        component: ComponentCreator('/guide/docs/overview-save-guild-shares','e74'),
         exact: true
       },
       {
-        path: '/savedao/docs/proposal-types',
-        component: ComponentCreator('/savedao/docs/proposal-types','738'),
+        path: '/guide/docs/proposal-types',
+        component: ComponentCreator('/guide/docs/proposal-types','c08'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/references',
-        component: ComponentCreator('/savedao/docs/references','87d'),
+        path: '/guide/docs/references',
+        component: ComponentCreator('/guide/docs/references','66f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/requesting-payment',
-        component: ComponentCreator('/savedao/docs/requesting-payment','24d'),
+        path: '/guide/docs/requesting-payment',
+        component: ComponentCreator('/guide/docs/requesting-payment','c0f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/rips',
-        component: ComponentCreator('/savedao/docs/rips','a0c'),
+        path: '/guide/docs/rips',
+        component: ComponentCreator('/guide/docs/rips','5f8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/shipped',
-        component: ComponentCreator('/savedao/docs/shipped','902'),
+        path: '/guide/docs/shipped',
+        component: ComponentCreator('/guide/docs/shipped','16f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/savedao/docs/summon-a-SAVE-party',
-        component: ComponentCreator('/savedao/docs/summon-a-SAVE-party','52f'),
+        path: '/guide/docs/summon-a-SAVE-party',
+        component: ComponentCreator('/guide/docs/summon-a-SAVE-party','2d9'),
         exact: true,
         'sidebar': "howSidebar"
       }
     ]
   },
   {
-    path: '/savedao/',
-    component: ComponentCreator('/savedao/','bbf'),
+    path: '/guide/',
+    component: ComponentCreator('/guide/','131'),
     exact: true
   },
   {

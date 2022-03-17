@@ -6,7 +6,7 @@
   "source": "@site/docs/convert-client-submission.md",
   "sourceDirName": ".",
   "slug": "/convert-client-submission",
-  "permalink": "/savedao/docs/convert-client-submission",
+  "permalink": "/guide/docs/convert-client-submission",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/convert-client-submission.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Champion a New Member",
-    "permalink": "/savedao/docs/champion-a-member"
+    "permalink": "/guide/docs/champion-a-member"
   },
   "next": {
     "title": "Commission Process",
-    "permalink": "/savedao/docs/commission-process"
+    "permalink": "/guide/docs/commission-process"
   }
 }

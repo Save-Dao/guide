@@ -6,7 +6,7 @@
   "source": "@site/docs/client-instructions.md",
   "sourceDirName": ".",
   "slug": "/client-instructions",
-  "permalink": "/savedao/docs/client-instructions",
+  "permalink": "/guide/docs/client-instructions",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/client-instructions.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Interacting With the Escrow",
-    "permalink": "/savedao/docs/interacting-with-escrow"
+    "permalink": "/guide/docs/interacting-with-escrow"
   },
   "next": {
     "title": "References",
-    "permalink": "/savedao/docs/references"
+    "permalink": "/guide/docs/references"
   }
 }

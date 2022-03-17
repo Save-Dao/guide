@@ -6,7 +6,7 @@
   "source": "@site/docs/discord-etiquette.md",
   "sourceDirName": ".",
   "slug": "/discord-etiquette",
-  "permalink": "/savedao/docs/discord-etiquette",
+  "permalink": "/guide/docs/discord-etiquette",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-etiquette.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Proposal Types",
-    "permalink": "/savedao/docs/proposal-types"
+    "permalink": "/guide/docs/proposal-types"
   },
   "next": {
     "title": "Getting Started",
-    "permalink": "/savedao/docs/discord-getting-started"
+    "permalink": "/guide/docs/discord-getting-started"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/champion-a-member.md",
   "sourceDirName": ".",
   "slug": "/champion-a-member",
-  "permalink": "/savedao/docs/champion-a-member",
+  "permalink": "/guide/docs/champion-a-member",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/champion-a-member.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Become a Member",
-    "permalink": "/savedao/docs/become-a-member"
+    "permalink": "/guide/docs/become-a-member"
   },
   "next": {
     "title": "Convert Client Submission Into a SAVE",
-    "permalink": "/savedao/docs/convert-client-submission"
+    "permalink": "/guide/docs/convert-client-submission"
   }
 }

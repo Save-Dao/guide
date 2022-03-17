@@ -6,7 +6,7 @@
   "source": "@site/docs/dispute.md",
   "sourceDirName": ".",
   "slug": "/dispute",
-  "permalink": "/savedao/docs/dispute",
+  "permalink": "/guide/docs/dispute",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/dispute.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Happy Path",
-    "permalink": "/savedao/docs/happy-path"
+    "permalink": "/guide/docs/happy-path"
   },
   "next": {
     "title": "Interacting With the Escrow",
-    "permalink": "/savedao/docs/interacting-with-escrow"
+    "permalink": "/guide/docs/interacting-with-escrow"
   }
 }

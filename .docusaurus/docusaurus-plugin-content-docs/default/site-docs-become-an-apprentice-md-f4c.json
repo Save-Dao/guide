@@ -6,7 +6,7 @@
   "source": "@site/docs/become-an-apprentice.md",
   "sourceDirName": ".",
   "slug": "/become-an-apprentice",
-  "permalink": "/savedao/docs/become-an-apprentice",
+  "permalink": "/guide/docs/become-an-apprentice",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/become-an-apprentice.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Roles",
-    "permalink": "/savedao/docs/overview-roles"
+    "permalink": "/guide/docs/overview-roles"
   },
   "next": {
     "title": "Become a Member",
-    "permalink": "/savedao/docs/become-a-member"
+    "permalink": "/guide/docs/become-a-member"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/ship.md",
   "sourceDirName": ".",
   "slug": "/shipped",
-  "permalink": "/savedao/docs/shipped",
+  "permalink": "/guide/docs/shipped",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/ship.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Lead a Save",
-    "permalink": "/savedao/docs/lead-a-save"
+    "permalink": "/guide/docs/lead-a-save"
   },
   "next": {
     "title": "RIPs",
-    "permalink": "/savedao/docs/rips"
+    "permalink": "/guide/docs/rips"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/how-does-it-work.md",
   "sourceDirName": ".",
   "slug": "/how-does-it-work",
-  "permalink": "/savedao/docs/how-does-it-work",
+  "permalink": "/guide/docs/how-does-it-work",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/how-does-it-work.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Commission Process",
-    "permalink": "/savedao/docs/commission-process"
+    "permalink": "/guide/docs/commission-process"
   },
   "next": {
     "title": "Happy Path",
-    "permalink": "/savedao/docs/happy-path"
+    "permalink": "/guide/docs/happy-path"
   }
 }

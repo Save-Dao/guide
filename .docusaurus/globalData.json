@@ -1,210 +1,210 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/savedao/docs",
+      "path": "/guide/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/savedao/docs",
+          "path": "/guide/docs",
           "mainDocId": "overview",
           "docs": [
             {
               "id": "become-a-member",
-              "path": "/savedao/docs/become-a-member",
+              "path": "/guide/docs/become-a-member",
               "sidebar": "howSidebar"
             },
             {
               "id": "become-an-apprentice",
-              "path": "/savedao/docs/become-an-apprentice",
+              "path": "/guide/docs/become-an-apprentice",
               "sidebar": "howSidebar"
             },
             {
               "id": "champion-a-member",
-              "path": "/savedao/docs/champion-a-member",
+              "path": "/guide/docs/champion-a-member",
               "sidebar": "howSidebar"
             },
             {
               "id": "client-instructions",
-              "path": "/savedao/docs/client-instructions",
+              "path": "/guide/docs/client-instructions",
               "sidebar": "howSidebar"
             },
             {
               "id": "commission-process",
-              "path": "/savedao/docs/commission-process",
+              "path": "/guide/docs/commission-process",
               "sidebar": "howSidebar"
             },
             {
               "id": "community-forum",
-              "path": "/savedao/docs/community-forum",
+              "path": "/guide/docs/community-forum",
               "sidebar": "howSidebar"
             },
             {
               "id": "community-meetings",
-              "path": "/savedao/docs/community-meetings",
+              "path": "/guide/docs/community-meetings",
               "sidebar": "howSidebar"
             },
             {
               "id": "community-overview",
-              "path": "/savedao/docs/community-overview",
+              "path": "/guide/docs/community-overview",
               "sidebar": "howSidebar"
             },
             {
               "id": "community-social-media",
-              "path": "/savedao/docs/community-social-media",
+              "path": "/guide/docs/community-social-media",
               "sidebar": "howSidebar"
             },
             {
               "id": "convert-client-submission",
-              "path": "/savedao/docs/convert-client-submission",
+              "path": "/guide/docs/convert-client-submission",
               "sidebar": "howSidebar"
             },
             {
               "id": "discord-bots",
-              "path": "/savedao/docs/discord-bots",
+              "path": "/guide/docs/discord-bots",
               "sidebar": "howSidebar"
             },
             {
               "id": "discord-channels",
-              "path": "/savedao/docs/discord-channels",
+              "path": "/guide/docs/discord-channels",
               "sidebar": "howSidebar"
             },
             {
               "id": "discord-etiquette",
-              "path": "/savedao/docs/discord-etiquette",
+              "path": "/guide/docs/discord-etiquette",
               "sidebar": "howSidebar"
             },
             {
               "id": "discord-getting-started",
-              "path": "/savedao/docs/discord-getting-started",
+              "path": "/guide/docs/discord-getting-started",
               "sidebar": "howSidebar"
             },
             {
               "id": "discord-navigation-help",
-              "path": "/savedao/docs/discord-navigation-help",
+              "path": "/guide/docs/discord-navigation-help",
               "sidebar": "howSidebar"
             },
             {
               "id": "dispute",
-              "path": "/savedao/docs/dispute",
+              "path": "/guide/docs/dispute",
               "sidebar": "howSidebar"
             },
             {
               "id": "doc1",
-              "path": "/savedao/docs/doc1"
+              "path": "/guide/docs/doc1"
             },
             {
               "id": "doc2",
-              "path": "/savedao/docs/doc2"
+              "path": "/guide/docs/doc2"
             },
             {
               "id": "glossary",
-              "path": "/savedao/docs/glossary",
+              "path": "/guide/docs/glossary",
               "sidebar": "howSidebar"
             },
             {
               "id": "happy-path",
-              "path": "/savedao/docs/happy-path",
+              "path": "/guide/docs/happy-path",
               "sidebar": "howSidebar"
             },
             {
               "id": "helping-docs",
-              "path": "/savedao/docs/helping-docs",
+              "path": "/guide/docs/helping-docs",
               "sidebar": "howSidebar"
             },
             {
               "id": "how-does-it-work",
-              "path": "/savedao/docs/how-does-it-work",
+              "path": "/guide/docs/how-does-it-work",
               "sidebar": "howSidebar"
             },
             {
               "id": "interacting-with-escrow",
-              "path": "/savedao/docs/interacting-with-escrow",
+              "path": "/guide/docs/interacting-with-escrow",
               "sidebar": "howSidebar"
             },
             {
               "id": "join-a-raid",
-              "path": "/savedao/docs/join-a-raid"
+              "path": "/guide/docs/join-a-raid"
             },
             {
               "id": "lead-a-save",
-              "path": "/savedao/docs/lead-a-save",
+              "path": "/guide/docs/lead-a-save",
               "sidebar": "howSidebar"
             },
             {
               "id": "learn-about-web3",
-              "path": "/savedao/docs/learn-about-web3",
+              "path": "/guide/docs/learn-about-web3",
               "sidebar": "howSidebar"
             },
             {
               "id": "mdx",
-              "path": "/savedao/docs/mdx"
+              "path": "/guide/docs/mdx"
             },
             {
               "id": "migration-to-xdai",
-              "path": "/savedao/docs/migration-to-xdai",
+              "path": "/guide/docs/migration-to-xdai",
               "sidebar": "howSidebar"
             },
             {
               "id": "overview",
-              "path": "/savedao/docs/overview",
+              "path": "/guide/docs/overview",
               "sidebar": "howSidebar"
             },
             {
               "id": "overview-code-of-conduct",
-              "path": "/savedao/docs/overview-code-of-conduct",
+              "path": "/guide/docs/overview-code-of-conduct",
               "sidebar": "howSidebar"
             },
             {
               "id": "overview-molochv2-primer",
-              "path": "/savedao/docs/overview-molochv2-primer",
+              "path": "/guide/docs/overview-molochv2-primer",
               "sidebar": "howSidebar"
             },
             {
               "id": "overview-roles",
-              "path": "/savedao/docs/overview-roles",
+              "path": "/guide/docs/overview-roles",
               "sidebar": "howSidebar"
             },
             {
               "id": "overview-save-guild-shares",
-              "path": "/savedao/docs/overview-save-guild-shares"
+              "path": "/guide/docs/overview-save-guild-shares"
             },
             {
               "id": "proposal-types",
-              "path": "/savedao/docs/proposal-types",
+              "path": "/guide/docs/proposal-types",
               "sidebar": "howSidebar"
             },
             {
               "id": "references",
-              "path": "/savedao/docs/references",
+              "path": "/guide/docs/references",
               "sidebar": "howSidebar"
             },
             {
               "id": "requesting-payment",
-              "path": "/savedao/docs/requesting-payment",
+              "path": "/guide/docs/requesting-payment",
               "sidebar": "howSidebar"
             },
             {
               "id": "rips",
-              "path": "/savedao/docs/rips",
+              "path": "/guide/docs/rips",
               "sidebar": "howSidebar"
             },
             {
               "id": "shipped",
-              "path": "/savedao/docs/shipped",
+              "path": "/guide/docs/shipped",
               "sidebar": "howSidebar"
             },
             {
               "id": "summon-a-SAVE-party",
-              "path": "/savedao/docs/summon-a-SAVE-party",
+              "path": "/guide/docs/summon-a-SAVE-party",
               "sidebar": "howSidebar"
             }
           ],
           "sidebars": {
             "howSidebar": {
               "link": {
-                "path": "/savedao/docs/overview",
+                "path": "/guide/docs/overview",
                 "label": "overview"
               }
             }

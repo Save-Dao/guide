@@ -6,7 +6,7 @@
   "source": "@site/docs/discord-getting-started.md",
   "sourceDirName": ".",
   "slug": "/discord-getting-started",
-  "permalink": "/savedao/docs/discord-getting-started",
+  "permalink": "/guide/docs/discord-getting-started",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-getting-started.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Etiquette",
-    "permalink": "/savedao/docs/discord-etiquette"
+    "permalink": "/guide/docs/discord-etiquette"
   },
   "next": {
     "title": "Channels",
-    "permalink": "/savedao/docs/discord-channels"
+    "permalink": "/guide/docs/discord-channels"
   }
 }

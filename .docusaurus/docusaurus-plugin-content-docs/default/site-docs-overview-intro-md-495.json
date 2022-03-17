@@ -6,7 +6,7 @@
   "source": "@site/docs/overview-intro.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/savedao/docs/overview",
+  "permalink": "/guide/docs/overview",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-intro.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "howSidebar",
   "next": {
     "title": "Code of Conduct",
-    "permalink": "/savedao/docs/overview-code-of-conduct"
+    "permalink": "/guide/docs/overview-code-of-conduct"
   }
 }

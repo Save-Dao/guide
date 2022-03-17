@@ -6,7 +6,7 @@
   "source": "@site/docs/learn-about-web3.md",
   "sourceDirName": ".",
   "slug": "/learn-about-web3",
-  "permalink": "/savedao/docs/learn-about-web3",
+  "permalink": "/guide/docs/learn-about-web3",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/learn-about-web3.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Socials + Media",
-    "permalink": "/savedao/docs/community-social-media"
+    "permalink": "/guide/docs/community-social-media"
   },
   "next": {
     "title": "Glossary",
-    "permalink": "/savedao/docs/glossary"
+    "permalink": "/guide/docs/glossary"
   }
 }

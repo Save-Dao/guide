@@ -6,7 +6,7 @@
   "source": "@site/docs/proposal-types.md",
   "sourceDirName": ".",
   "slug": "/proposal-types",
-  "permalink": "/savedao/docs/proposal-types",
+  "permalink": "/guide/docs/proposal-types",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/proposal-types.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "RIPs",
-    "permalink": "/savedao/docs/rips"
+    "permalink": "/guide/docs/rips"
   },
   "next": {
     "title": "Etiquette",
-    "permalink": "/savedao/docs/discord-etiquette"
+    "permalink": "/guide/docs/discord-etiquette"
   }
 }

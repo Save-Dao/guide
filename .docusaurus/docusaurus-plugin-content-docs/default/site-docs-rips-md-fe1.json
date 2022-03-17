@@ -6,7 +6,7 @@
   "source": "@site/docs/rips.md",
   "sourceDirName": ".",
   "slug": "/rips",
-  "permalink": "/savedao/docs/rips",
+  "permalink": "/guide/docs/rips",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/rips.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Ship a SAVE",
-    "permalink": "/savedao/docs/shipped"
+    "permalink": "/guide/docs/shipped"
   },
   "next": {
     "title": "Proposal Types",
-    "permalink": "/savedao/docs/proposal-types"
+    "permalink": "/guide/docs/proposal-types"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/discord-bots.md",
   "sourceDirName": ".",
   "slug": "/discord-bots",
-  "permalink": "/savedao/docs/discord-bots",
+  "permalink": "/guide/docs/discord-bots",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-bots.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Navigation",
-    "permalink": "/savedao/docs/discord-navigation-help"
+    "permalink": "/guide/docs/discord-navigation-help"
   },
   "next": {
     "title": "Overview",
-    "permalink": "/savedao/docs/community-overview"
+    "permalink": "/guide/docs/community-overview"
   }
 }

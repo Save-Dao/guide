@@ -6,7 +6,7 @@
   "source": "@site/docs/overview-molochv2-primer.md",
   "sourceDirName": ".",
   "slug": "/overview-molochv2-primer",
-  "permalink": "/savedao/docs/overview-molochv2-primer",
+  "permalink": "/guide/docs/overview-molochv2-primer",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-molochv2-primer.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Code of Conduct",
-    "permalink": "/savedao/docs/overview-code-of-conduct"
+    "permalink": "/guide/docs/overview-code-of-conduct"
   },
   "next": {
     "title": "Roles",
-    "permalink": "/savedao/docs/overview-roles"
+    "permalink": "/guide/docs/overview-roles"
   }
 }

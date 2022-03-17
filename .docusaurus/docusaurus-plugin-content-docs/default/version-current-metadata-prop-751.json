@@ -15,25 +15,25 @@
           {
             "type": "link",
             "label": "Intro",
-            "href": "/savedao/docs/overview",
+            "href": "/guide/docs/overview",
             "docId": "overview"
           },
           {
             "type": "link",
             "label": "Code of Conduct",
-            "href": "/savedao/docs/overview-code-of-conduct",
+            "href": "/guide/docs/overview-code-of-conduct",
             "docId": "overview-code-of-conduct"
           },
           {
             "type": "link",
             "label": "Moloch V2",
-            "href": "/savedao/docs/overview-molochv2-primer",
+            "href": "/guide/docs/overview-molochv2-primer",
             "docId": "overview-molochv2-primer"
           },
           {
             "type": "link",
             "label": "Roles",
-            "href": "/savedao/docs/overview-roles",
+            "href": "/guide/docs/overview-roles",
             "docId": "overview-roles"
           }
         ],
@@ -47,19 +47,19 @@
           {
             "type": "link",
             "label": "Become an Apprentice",
-            "href": "/savedao/docs/become-an-apprentice",
+            "href": "/guide/docs/become-an-apprentice",
             "docId": "become-an-apprentice"
           },
           {
             "type": "link",
             "label": "Become a Member",
-            "href": "/savedao/docs/become-a-member",
+            "href": "/guide/docs/become-a-member",
             "docId": "become-a-member"
           },
           {
             "type": "link",
             "label": "Champion a New Member",
-            "href": "/savedao/docs/champion-a-member",
+            "href": "/guide/docs/champion-a-member",
             "docId": "champion-a-member"
           }
         ],
@@ -73,13 +73,13 @@
           {
             "type": "link",
             "label": "Convert Client Submission Into a SAVE",
-            "href": "/savedao/docs/convert-client-submission",
+            "href": "/guide/docs/convert-client-submission",
             "docId": "convert-client-submission"
           },
           {
             "type": "link",
             "label": "Commission Process",
-            "href": "/savedao/docs/commission-process",
+            "href": "/guide/docs/commission-process",
             "docId": "commission-process"
           },
           {
@@ -89,37 +89,37 @@
               {
                 "type": "link",
                 "label": "How Does It Work?",
-                "href": "/savedao/docs/how-does-it-work",
+                "href": "/guide/docs/how-does-it-work",
                 "docId": "how-does-it-work"
               },
               {
                 "type": "link",
                 "label": "Happy Path",
-                "href": "/savedao/docs/happy-path",
+                "href": "/guide/docs/happy-path",
                 "docId": "happy-path"
               },
               {
                 "type": "link",
                 "label": "In Case of Dispute",
-                "href": "/savedao/docs/dispute",
+                "href": "/guide/docs/dispute",
                 "docId": "dispute"
               },
               {
                 "type": "link",
                 "label": "Interacting With the Escrow",
-                "href": "/savedao/docs/interacting-with-escrow",
+                "href": "/guide/docs/interacting-with-escrow",
                 "docId": "interacting-with-escrow"
               },
               {
                 "type": "link",
                 "label": "Instructions for Client Payment",
-                "href": "/savedao/docs/client-instructions",
+                "href": "/guide/docs/client-instructions",
                 "docId": "client-instructions"
               },
               {
                 "type": "link",
                 "label": "References",
-                "href": "/savedao/docs/references",
+                "href": "/guide/docs/references",
                 "docId": "references"
               }
             ],
@@ -129,19 +129,19 @@
           {
             "type": "link",
             "label": "Summon a SAVE Party",
-            "href": "/savedao/docs/summon-a-SAVE-party",
+            "href": "/guide/docs/summon-a-SAVE-party",
             "docId": "summon-a-SAVE-party"
           },
           {
             "type": "link",
             "label": "Lead a Save",
-            "href": "/savedao/docs/lead-a-save",
+            "href": "/guide/docs/lead-a-save",
             "docId": "lead-a-save"
           },
           {
             "type": "link",
             "label": "Ship a SAVE",
-            "href": "/savedao/docs/shipped",
+            "href": "/guide/docs/shipped",
             "docId": "shipped"
           }
         ],
@@ -155,13 +155,13 @@
           {
             "type": "link",
             "label": "RIPs",
-            "href": "/savedao/docs/rips",
+            "href": "/guide/docs/rips",
             "docId": "rips"
           },
           {
             "type": "link",
             "label": "Proposal Types",
-            "href": "/savedao/docs/proposal-types",
+            "href": "/guide/docs/proposal-types",
             "docId": "proposal-types"
           }
         ],
@@ -175,31 +175,31 @@
           {
             "type": "link",
             "label": "Etiquette",
-            "href": "/savedao/docs/discord-etiquette",
+            "href": "/guide/docs/discord-etiquette",
             "docId": "discord-etiquette"
           },
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/savedao/docs/discord-getting-started",
+            "href": "/guide/docs/discord-getting-started",
             "docId": "discord-getting-started"
           },
           {
             "type": "link",
             "label": "Channels",
-            "href": "/savedao/docs/discord-channels",
+            "href": "/guide/docs/discord-channels",
             "docId": "discord-channels"
           },
           {
             "type": "link",
             "label": "Navigation",
-            "href": "/savedao/docs/discord-navigation-help",
+            "href": "/guide/docs/discord-navigation-help",
             "docId": "discord-navigation-help"
           },
           {
             "type": "link",
             "label": "Discord Bots",
-            "href": "/savedao/docs/discord-bots",
+            "href": "/guide/docs/discord-bots",
             "docId": "discord-bots"
           }
         ],
@@ -213,25 +213,25 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/savedao/docs/community-overview",
+            "href": "/guide/docs/community-overview",
             "docId": "community-overview"
           },
           {
             "type": "link",
             "label": "Meetings",
-            "href": "/savedao/docs/community-meetings",
+            "href": "/guide/docs/community-meetings",
             "docId": "community-meetings"
           },
           {
             "type": "link",
             "label": "community-forum",
-            "href": "/savedao/docs/community-forum",
+            "href": "/guide/docs/community-forum",
             "docId": "community-forum"
           },
           {
             "type": "link",
             "label": "Socials + Media",
-            "href": "/savedao/docs/community-social-media",
+            "href": "/guide/docs/community-social-media",
             "docId": "community-social-media"
           }
         ],
@@ -245,31 +245,31 @@
           {
             "type": "link",
             "label": "Learn About Web3",
-            "href": "/savedao/docs/learn-about-web3",
+            "href": "/guide/docs/learn-about-web3",
             "docId": "learn-about-web3"
           },
           {
             "type": "link",
             "label": "Glossary",
-            "href": "/savedao/docs/glossary",
+            "href": "/guide/docs/glossary",
             "docId": "glossary"
           },
           {
             "type": "link",
             "label": "Getting Paid",
-            "href": "/savedao/docs/requesting-payment",
+            "href": "/guide/docs/requesting-payment",
             "docId": "requesting-payment"
           },
           {
             "type": "link",
             "label": "Migration to xDAI",
-            "href": "/savedao/docs/migration-to-xdai",
+            "href": "/guide/docs/migration-to-xdai",
             "docId": "migration-to-xdai"
           },
           {
             "type": "link",
             "label": "How Tos",
-            "href": "/savedao/docs/helping-docs",
+            "href": "/guide/docs/helping-docs",
             "docId": "helping-docs"
           }
         ],

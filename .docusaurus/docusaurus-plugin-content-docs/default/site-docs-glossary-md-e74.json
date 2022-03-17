@@ -6,7 +6,7 @@
   "source": "@site/docs/glossary.md",
   "sourceDirName": ".",
   "slug": "/glossary",
-  "permalink": "/savedao/docs/glossary",
+  "permalink": "/guide/docs/glossary",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/glossary.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Learn About Web3",
-    "permalink": "/savedao/docs/learn-about-web3"
+    "permalink": "/guide/docs/learn-about-web3"
   },
   "next": {
     "title": "Getting Paid",
-    "permalink": "/savedao/docs/requesting-payment"
+    "permalink": "/guide/docs/requesting-payment"
   }
 }

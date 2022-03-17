@@ -6,7 +6,7 @@
   "source": "@site/docs/overview-roles.md",
   "sourceDirName": ".",
   "slug": "/overview-roles",
-  "permalink": "/savedao/docs/overview-roles",
+  "permalink": "/guide/docs/overview-roles",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-roles.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Moloch V2",
-    "permalink": "/savedao/docs/overview-molochv2-primer"
+    "permalink": "/guide/docs/overview-molochv2-primer"
   },
   "next": {
     "title": "Become an Apprentice",
-    "permalink": "/savedao/docs/become-an-apprentice"
+    "permalink": "/guide/docs/become-an-apprentice"
   }
 }
