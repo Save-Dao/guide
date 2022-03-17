@@ -1,0 +1,27 @@
+{
+  "unversionedId": "migration-to-xdai",
+  "id": "migration-to-xdai",
+  "title": "Migration to xDAI",
+  "description": "On February 18, 2021, Save Dao migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.",
+  "source": "@site/docs/migration-to-xdai.md",
+  "sourceDirName": ".",
+  "slug": "/migration-to-xdai",
+  "permalink": "/savedao/docs/migration-to-xdai",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/migration-to-xdai.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "migration-to-xdai",
+    "title": "Migration to xDAI",
+    "sidebar_label": "Migration to xDAI"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Getting Paid",
+    "permalink": "/savedao/docs/requesting-payment"
+  },
+  "next": {
+    "title": "How Tos",
+    "permalink": "/savedao/docs/helping-docs"
+  }
+}

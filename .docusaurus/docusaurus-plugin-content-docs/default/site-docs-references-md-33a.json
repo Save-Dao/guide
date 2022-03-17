@@ -1,0 +1,27 @@
+{
+  "unversionedId": "references",
+  "id": "references",
+  "title": "References",
+  "description": "-   Save dao on Daohaus//app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7",
+  "source": "@site/docs/references.md",
+  "sourceDirName": ".",
+  "slug": "/references",
+  "permalink": "/savedao/docs/references",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/references.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "references",
+    "title": "References",
+    "sidebar_label": "References"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Instructions for Client Payment",
+    "permalink": "/savedao/docs/client-instructions"
+  },
+  "next": {
+    "title": "Summon a SAVE Party",
+    "permalink": "/savedao/docs/summon-a-SAVE-party"
+  }
+}

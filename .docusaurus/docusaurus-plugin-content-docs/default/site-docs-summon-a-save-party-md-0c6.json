@@ -1,0 +1,27 @@
+{
+  "unversionedId": "summon-a-SAVE-party",
+  "id": "summon-a-SAVE-party",
+  "title": "Summon a SAVE Party",
+  "description": "The best place to Summon new Members for a SAVE is in the DAO DISCORD HQ #save-campaign channel by tagging the roles in question.",
+  "source": "@site/docs/summon-a-SAVE-party.md",
+  "sourceDirName": ".",
+  "slug": "/summon-a-SAVE-party",
+  "permalink": "/savedao/docs/summon-a-SAVE-party",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/summon-a-SAVE-party.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "summon-a-SAVE-party",
+    "title": "Summon a SAVE Party",
+    "sidebar_label": "Summon a SAVE Party"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "References",
+    "permalink": "/savedao/docs/references"
+  },
+  "next": {
+    "title": "Lead a Save",
+    "permalink": "/savedao/docs/lead-a-save"
+  }
+}

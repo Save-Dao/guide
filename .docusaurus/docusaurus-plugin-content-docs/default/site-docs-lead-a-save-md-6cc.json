@@ -1,0 +1,27 @@
+{
+  "unversionedId": "lead-a-save",
+  "id": "lead-a-save",
+  "title": "Lead a Save",
+  "description": "Well well well! Welcome to the big leagues.",
+  "source": "@site/docs/lead-a-save.md",
+  "sourceDirName": ".",
+  "slug": "/lead-a-save",
+  "permalink": "/savedao/docs/lead-a-save",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/lead-a-save.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lead-a-save",
+    "title": "Lead a Save",
+    "sidebar_label": "Lead a Save"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Summon a SAVE Party",
+    "permalink": "/savedao/docs/summon-a-SAVE-party"
+  },
+  "next": {
+    "title": "Ship a SAVE",
+    "permalink": "/savedao/docs/shipped"
+  }
+}

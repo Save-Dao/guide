@@ -1,0 +1,27 @@
+{
+  "unversionedId": "glossary",
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "A running list of Raid Guild nomenclature. Always evolving, forever in progress…",
+  "source": "@site/docs/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/savedao/docs/glossary",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "glossary",
+    "title": "Glossary",
+    "sidebar_label": "Glossary"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Learn About Web3",
+    "permalink": "/savedao/docs/learn-about-web3"
+  },
+  "next": {
+    "title": "Getting Paid",
+    "permalink": "/savedao/docs/requesting-payment"
+  }
+}

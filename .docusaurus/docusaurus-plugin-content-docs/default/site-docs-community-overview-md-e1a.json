@@ -1,0 +1,27 @@
+{
+  "unversionedId": "community-overview",
+  "id": "community-overview",
+  "title": "Overview",
+  "description": "There are a few meetings each week that we encourage all Guild Members to attend.  Save Rally is a meeting for Guild members to discuss progress across different RIPs and Raids, as well as provide teams in the _Preparing for Campaign phase with possible personnel for their Raid/RIP.",
+  "source": "@site/docs/community-overview.md",
+  "sourceDirName": ".",
+  "slug": "/community-overview",
+  "permalink": "/savedao/docs/community-overview",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "community-overview",
+    "title": "Overview",
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Discord Bots",
+    "permalink": "/savedao/docs/discord-bots"
+  },
+  "next": {
+    "title": "Meetings",
+    "permalink": "/savedao/docs/community-meetings"
+  }
+}

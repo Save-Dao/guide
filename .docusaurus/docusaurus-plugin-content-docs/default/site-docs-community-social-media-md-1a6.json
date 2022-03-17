@@ -1,0 +1,27 @@
+{
+  "unversionedId": "community-social-media",
+  "id": "community-social-media",
+  "title": "Socials + Media",
+  "description": "Here you can find the official Raid Guild social & Media channels.",
+  "source": "@site/docs/community-social-media.md",
+  "sourceDirName": ".",
+  "slug": "/community-social-media",
+  "permalink": "/savedao/docs/community-social-media",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-social-media.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "community-social-media",
+    "title": "Socials + Media",
+    "sidebar_label": "Socials + Media"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "community-forum",
+    "permalink": "/savedao/docs/community-forum"
+  },
+  "next": {
+    "title": "Learn About Web3",
+    "permalink": "/savedao/docs/learn-about-web3"
+  }
+}

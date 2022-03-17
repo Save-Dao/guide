@@ -1,0 +1,27 @@
+{
+  "unversionedId": "convert-client-submission",
+  "id": "convert-client-submission",
+  "title": "Convert Client Submission Into a SAVE",
+  "description": "Uncategorized",
+  "source": "@site/docs/convert-client-submission.md",
+  "sourceDirName": ".",
+  "slug": "/convert-client-submission",
+  "permalink": "/savedao/docs/convert-client-submission",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/convert-client-submission.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "convert-client-submission",
+    "title": "Convert Client Submission Into a SAVE",
+    "sidebar_label": "Convert Client Submission Into a SAVE"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Champion a New Member",
+    "permalink": "/savedao/docs/champion-a-member"
+  },
+  "next": {
+    "title": "Commission Process",
+    "permalink": "/savedao/docs/commission-process"
+  }
+}

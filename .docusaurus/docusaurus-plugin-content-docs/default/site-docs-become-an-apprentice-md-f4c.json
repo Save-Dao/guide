@@ -1,0 +1,27 @@
+{
+  "unversionedId": "become-an-apprentice",
+  "id": "become-an-apprentice",
+  "title": "Become an Apprentice",
+  "description": "Save Dao has instituted a new onboarding process through the utilization of Cohorts.",
+  "source": "@site/docs/become-an-apprentice.md",
+  "sourceDirName": ".",
+  "slug": "/become-an-apprentice",
+  "permalink": "/savedao/docs/become-an-apprentice",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/become-an-apprentice.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "become-an-apprentice",
+    "title": "Become an Apprentice",
+    "sidebar_label": "Become an Apprentice"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Roles",
+    "permalink": "/savedao/docs/overview-roles"
+  },
+  "next": {
+    "title": "Become a Member",
+    "permalink": "/savedao/docs/become-a-member"
+  }
+}

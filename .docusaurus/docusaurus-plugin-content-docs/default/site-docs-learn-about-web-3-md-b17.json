@@ -1,0 +1,27 @@
+{
+  "unversionedId": "learn-about-web3",
+  "id": "learn-about-web3",
+  "title": "Learn About Web3",
+  "description": "Overview of Web3 and DAO",
+  "source": "@site/docs/learn-about-web3.md",
+  "sourceDirName": ".",
+  "slug": "/learn-about-web3",
+  "permalink": "/savedao/docs/learn-about-web3",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/learn-about-web3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "learn-about-web3",
+    "title": "Learn About Web3",
+    "sidebar_label": "Learn About Web3"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Socials + Media",
+    "permalink": "/savedao/docs/community-social-media"
+  },
+  "next": {
+    "title": "Glossary",
+    "permalink": "/savedao/docs/glossary"
+  }
+}

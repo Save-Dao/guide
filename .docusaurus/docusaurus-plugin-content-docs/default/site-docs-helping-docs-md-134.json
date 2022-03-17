@@ -1,0 +1,23 @@
+{
+  "unversionedId": "helping-docs",
+  "id": "helping-docs",
+  "title": "How Tos",
+  "description": "How To: The Bridge to xDAI and wxDAI",
+  "source": "@site/docs/helping-docs.md",
+  "sourceDirName": ".",
+  "slug": "/helping-docs",
+  "permalink": "/savedao/docs/helping-docs",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/helping-docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "helping-docs",
+    "title": "How Tos",
+    "sidebar_label": "How Tos"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Migration to xDAI",
+    "permalink": "/savedao/docs/migration-to-xdai"
+  }
+}

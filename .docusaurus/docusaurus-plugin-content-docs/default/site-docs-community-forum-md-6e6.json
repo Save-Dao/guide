@@ -1,0 +1,23 @@
+{
+  "unversionedId": "community-forum",
+  "id": "community-forum",
+  "title": "community-forum",
+  "description": "Coming Soon",
+  "source": "@site/docs/community-forum.md",
+  "sourceDirName": ".",
+  "slug": "/community-forum",
+  "permalink": "/savedao/docs/community-forum",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-forum.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Meetings",
+    "permalink": "/savedao/docs/community-meetings"
+  },
+  "next": {
+    "title": "Socials + Media",
+    "permalink": "/savedao/docs/community-social-media"
+  }
+}

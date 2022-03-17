@@ -1,0 +1,27 @@
+{
+  "unversionedId": "discord-bots",
+  "id": "discord-bots",
+  "title": "Discord Bots",
+  "description": "Do Save Dao Bots Dream of Electric Tweets?",
+  "source": "@site/docs/discord-bots.md",
+  "sourceDirName": ".",
+  "slug": "/discord-bots",
+  "permalink": "/savedao/docs/discord-bots",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-bots.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "discord-bots",
+    "title": "Discord Bots",
+    "sidebar_label": "Discord Bots"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Navigation",
+    "permalink": "/savedao/docs/discord-navigation-help"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/savedao/docs/community-overview"
+  }
+}

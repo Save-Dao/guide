@@ -4,7 +4,8 @@ module.exports = {
     url: "https://github.com",
     baseUrl: "/savedao/",
     favicon: "img/rg-icon.png",
-    organizationName: "Savedao", // Usually your GitHub org/user name.
+    onBrokenLinks: "ignore",
+    organizationName: "Save-Dao", // Usually your GitHub org/user name.
     projectName: "Mio-grimoire", // Usually your repo name.
     themeConfig: {
         navbar: {
@@ -12,7 +13,7 @@ module.exports = {
                 alt: "Save Dao Logo",
                 src: "img/rg-icon.png",
             },
-            links: [
+            items: [
                 // { to: "docs/raidCentral", label: "Handbook", position: "left" },
                 // {
                 //   to: "docs/raidCentral#member-registry",

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "discord-etiquette",
+  "id": "discord-etiquette",
+  "title": "Etiquette",
+  "description": "Before we get down and dirty, you should know that discord is the central communications hub for all things Save Dao.  With that in mind, there are some things you should know before you jump into the discord and begin taking up projects.",
+  "source": "@site/docs/discord-etiquette.md",
+  "sourceDirName": ".",
+  "slug": "/discord-etiquette",
+  "permalink": "/savedao/docs/discord-etiquette",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-etiquette.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "discord-etiquette",
+    "title": "Etiquette",
+    "sidebar_label": "Etiquette"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Proposal Types",
+    "permalink": "/savedao/docs/proposal-types"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/savedao/docs/discord-getting-started"
+  }
+}

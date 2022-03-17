@@ -1,0 +1,27 @@
+{
+  "unversionedId": "community-meetings",
+  "id": "community-meetings",
+  "title": "Meetings",
+  "description": "Open to the public:",
+  "source": "@site/docs/community-meetings.md",
+  "sourceDirName": ".",
+  "slug": "/community-meetings",
+  "permalink": "/savedao/docs/community-meetings",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-meetings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "community-meetings",
+    "title": "Meetings",
+    "sidebar_label": "Meetings"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/savedao/docs/community-overview"
+  },
+  "next": {
+    "title": "community-forum",
+    "permalink": "/savedao/docs/community-forum"
+  }
+}

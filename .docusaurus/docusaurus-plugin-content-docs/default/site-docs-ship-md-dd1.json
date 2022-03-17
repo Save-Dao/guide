@@ -1,0 +1,27 @@
+{
+  "unversionedId": "shipped",
+  "id": "shipped",
+  "title": "Ship a SAVE",
+  "description": "Shipped",
+  "source": "@site/docs/ship.md",
+  "sourceDirName": ".",
+  "slug": "/shipped",
+  "permalink": "/savedao/docs/shipped",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/ship.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "shipped",
+    "title": "Ship a SAVE",
+    "sidebar_label": "Ship a SAVE"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Lead a Save",
+    "permalink": "/savedao/docs/lead-a-save"
+  },
+  "next": {
+    "title": "RIPs",
+    "permalink": "/savedao/docs/rips"
+  }
+}

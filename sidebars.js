@@ -4,7 +4,7 @@ module.exports = {
       "overview",
       "overview-code-of-conduct",
       "overview-molochv2-primer",
-      "overview-raid-guild-shares",
+      // "overview-raid-guild-shares",
       "overview-roles",
     ],
     "Membership": [
@@ -27,7 +27,7 @@ module.exports = {
         ],
       },
       "summon-a-SAVE-party",
-      "join-a-save",
+      // "join-a-save",
       "lead-a-save",
       "shipped", 
     ],

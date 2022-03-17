@@ -1,0 +1,27 @@
+{
+  "unversionedId": "discord-navigation-help",
+  "id": "discord-navigation-help",
+  "title": "Navigation",
+  "description": "There’s a lot going on in our Discord. Please never hesitate to ask questions if you get lost. The best place to do so is in #Tavern as an Apprentice or in #general or #ops as a Guilder.",
+  "source": "@site/docs/discord-navigation-help.md",
+  "sourceDirName": ".",
+  "slug": "/discord-navigation-help",
+  "permalink": "/savedao/docs/discord-navigation-help",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-navigation-help.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "discord-navigation-help",
+    "title": "Navigation",
+    "sidebar_label": "Navigation"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Channels",
+    "permalink": "/savedao/docs/discord-channels"
+  },
+  "next": {
+    "title": "Discord Bots",
+    "permalink": "/savedao/docs/discord-bots"
+  }
+}

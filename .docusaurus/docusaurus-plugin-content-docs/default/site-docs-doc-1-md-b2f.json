@@ -1,0 +1,18 @@
+{
+  "unversionedId": "doc1",
+  "id": "doc1",
+  "title": "Style Guide",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/doc1.md",
+  "sourceDirName": ".",
+  "slug": "/doc1",
+  "permalink": "/savedao/docs/doc1",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/doc1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc1",
+    "title": "Style Guide",
+    "sidebar_label": "Style Guide"
+  }
+}

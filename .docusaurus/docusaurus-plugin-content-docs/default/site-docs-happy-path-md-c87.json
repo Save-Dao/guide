@@ -1,0 +1,27 @@
+{
+  "unversionedId": "happy-path",
+  "id": "happy-path",
+  "title": "Happy Path",
+  "description": "&nbsp; WARNING: Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.",
+  "source": "@site/docs/happy-path.md",
+  "sourceDirName": ".",
+  "slug": "/happy-path",
+  "permalink": "/savedao/docs/happy-path",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/happy-path.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "happy-path",
+    "title": "Happy Path",
+    "sidebar_label": "Happy Path"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "How Does It Work?",
+    "permalink": "/savedao/docs/how-does-it-work"
+  },
+  "next": {
+    "title": "In Case of Dispute",
+    "permalink": "/savedao/docs/dispute"
+  }
+}

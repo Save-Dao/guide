@@ -1,0 +1,27 @@
+{
+  "unversionedId": "requesting-payment",
+  "id": "requesting-payment",
+  "title": "Getting Paid",
+  "description": "Requesting Payment",
+  "source": "@site/docs/requesting-payment.md",
+  "sourceDirName": ".",
+  "slug": "/requesting-payment",
+  "permalink": "/savedao/docs/requesting-payment",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/requesting-payment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "requesting-payment",
+    "title": "Getting Paid",
+    "sidebar_lable": "Getting Paid"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Glossary",
+    "permalink": "/savedao/docs/glossary"
+  },
+  "next": {
+    "title": "Migration to xDAI",
+    "permalink": "/savedao/docs/migration-to-xdai"
+  }
+}

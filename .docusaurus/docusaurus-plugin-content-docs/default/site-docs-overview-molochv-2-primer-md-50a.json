@@ -1,0 +1,27 @@
+{
+  "unversionedId": "overview-molochv2-primer",
+  "id": "overview-molochv2-primer",
+  "title": "Moloch V2",
+  "description": "Save Dao utilizes the colony.io framework. A great overview of Moloch V2 and it’s benefits can be found here.",
+  "source": "@site/docs/overview-molochv2-primer.md",
+  "sourceDirName": ".",
+  "slug": "/overview-molochv2-primer",
+  "permalink": "/savedao/docs/overview-molochv2-primer",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-molochv2-primer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview-molochv2-primer",
+    "title": "Moloch V2",
+    "sidebar_label": "Moloch V2"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Code of Conduct",
+    "permalink": "/savedao/docs/overview-code-of-conduct"
+  },
+  "next": {
+    "title": "Roles",
+    "permalink": "/savedao/docs/overview-roles"
+  }
+}

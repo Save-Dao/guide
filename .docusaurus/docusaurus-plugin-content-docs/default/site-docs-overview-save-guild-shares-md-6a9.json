@@ -1,0 +1,18 @@
+{
+  "unversionedId": "overview-save-guild-shares",
+  "id": "overview-save-guild-shares",
+  "title": "Save Guild Shares",
+  "description": "All Shares are non-transferable and unique to the DAO being used (in this case Save Dao).",
+  "source": "@site/docs/overview-save-guild-shares.md",
+  "sourceDirName": ".",
+  "slug": "/overview-save-guild-shares",
+  "permalink": "/savedao/docs/overview-save-guild-shares",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-save-guild-shares.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview-save-guild-shares",
+    "title": "Save Guild Shares",
+    "sidebar_label": "Save Guild Shares"
+  }
+}
