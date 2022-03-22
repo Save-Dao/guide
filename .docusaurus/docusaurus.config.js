@@ -56,11 +56,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/baba/Documents/GitHub/guide/sidebars.js",
+          "sidebarPath": "C:\\Users\\latin\\Documents\\guide\\sidebars.js",
           "editUrl": "https://github.com/raid-guild/handbook/edit/master/"
         },
         "theme": {
-          "customCss": "/Users/baba/Documents/GitHub/guide/src/css/custom.css"
+          "customCss": "C:\\Users\\latin\\Documents\\guide\\src\\css\\custom.css"
         }
       }
     ]
