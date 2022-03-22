@@ -3,7 +3,7 @@ module.exports = {
     tagline: "Magical Internet Organization Grimoire",
     url: "https://github.com",
     baseUrl: "/guide/",
-    favicon: "img/rg-icon.png",
+    favicon: "img/sd-icon.png",
     onBrokenLinks: "ignore",
     organizationName: "Save-Dao", // Usually your GitHub org/user name.
     projectName: "Mio-grimoire", // Usually your repo name.
@@ -11,7 +11,7 @@ module.exports = {
         navbar: {
             logo: {
                 alt: "Save Dao Logo",
-                src: "img/rg-icon.png",
+                src: "img/sd-icon.png",
             },
             items: [
                 // { to: "docs/raidCentral", label: "Handbook", position: "left" },

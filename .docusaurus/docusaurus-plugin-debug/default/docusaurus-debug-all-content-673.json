@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/baba/Documents/GitHub/guide/sidebars.js",
-          "contentPath": "/Users/baba/Documents/GitHub/guide/docs",
-          "contentPathLocalized": "/Users/baba/Documents/GitHub/guide/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "C:\\Users\\latin\\Documents\\guide\\sidebars.js",
+          "contentPath": "C:\\Users\\latin\\Documents\\guide\\docs",
+          "contentPathLocalized": "C:\\Users\\latin\\Documents\\guide\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "become-a-member",
