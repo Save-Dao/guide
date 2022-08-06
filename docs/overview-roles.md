@@ -31,7 +31,7 @@ You can assing yourself roles by going to the #start-here channel and clicking o
 | <span id='hunter'>Hunter</span>                     | _BizDev_          | Assigned to members with business and sales development speciality.                    |
 | <span id='monk'>Monk</span>                         | _PM_              | Assigned to members with managing, budgeting and documentation speciality.             |
 | <span id='mystic-alchemist'>Mystic Alchemist</span> | _DAO Consultant_  | Assigned to members with expertise in DAO user, advising and consulting.               |
-| <span id='rogue'>Rogue</span>                       | _Legal_           | Assigned to members with legal advising and analysing capabilities.                    |
+| <span id='djedi'>Djedi</span>                       | _Legal Engineer_  | Assigned to members with legal advising and analysing capabilities.                    |
 | <span id='scribe'>Scribe</span>                     | _Content Creator_ | Assigned to members with media expertise such as writing, video taping and podcasting. |
 | <span id='tavern-keeper'>Tavern Keeper</span>       | _Community_       | Assigned to members for managing community related activities.                         |
 | <span id='healer'>Healer</span>                     | _Internal Ops_    | Assigned to members for managing internal operations of the guild.                     |
