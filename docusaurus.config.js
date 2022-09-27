@@ -2,7 +2,7 @@ module.exports = {
     title: "Save Guide",
     tagline: "Magical Internet Organization Grimoire",
     url: "https://github.com",
-    baseUrl: "/guide/",
+    baseUrl: "/",
     favicon: "img/sd-icon.png",
     onBrokenLinks: "ignore",
     organizationName: "Save-Dao", // Usually your GitHub org/user name.
