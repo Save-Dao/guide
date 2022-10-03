@@ -6,7 +6,7 @@ sidebar_label: Moloch V2
 
 Save Dao utilizes the daohaus framework. A great overview of Moloch V2 and it’s benefits can be found [here](https://medium.com/raid-guild/moloch-evolved-v2-primer-25c9cdeab455).
 
-We were initially inspired by Raid Guild, which offers "raids" to help build the tech of worthy projects.  We have expanded this concept to include "legal engineering" per inspiration from "Lexdao".  This project is a symbiosis of these and more. 
+We were initially inspired by Raid Guild, which offers "raids" to help build the tech of worthy projects.  We have expanded this concept to include "legal engineering" per inspiration from "Lexdao".  This project is a symbiosis of these and more. We call our "raid" a "save" because we imagine more of "justice league" approach than a viking raider concept (but hats off to Raid Guild). 
 
 Moloch was popularized due to its Minimum Viable DAO design and the advent of “ragequit” - a means for members to exit the DAO by exchanging their shares for a pro-rata claim on their share of "treasury" assets.  We built and have a treasury using Gnosis multi-sig.
 
