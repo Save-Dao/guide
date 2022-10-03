@@ -18,7 +18,7 @@ Please note that all new members are capped at 44 Shares for 440 wxDAI.
 
 Once your proposal has passed and been processed, you'll now have 44 Super Shares and full membership in Save Dao
 
-To ensure that your Champion gets their $save stake back, you'll need to fulfill the following [3 criteria](./champion-a-member#Success-Criteria) **within your first 60 days** as a member (starting from when your membership proposal is processed):
+To ensure that your Champion gets their $save stake back, you'll need to fulfill the following **within your first 60 days** as a member (starting from when your membership proposal is processed):
 1. Successfully complete all the quests here (https://save-dao.crew3.xyz/questboard)
 2. Contribute to an approved $SAVE Campaign, or bring us a paid project proposal.
 4. Attend at least 4 [Dao meetings](./community-meetings), including Zoom Roundtables and the "Campfire" stage in discord.
