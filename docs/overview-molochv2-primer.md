@@ -12,4 +12,4 @@ Moloch was popularized due to its Minimum Viable DAO design and the advent of â€
 
 The benefit of Moloch V2 is that it allows for an optimized Treasury and new Proposal Types. Moloch V2 can hold a variety of ERC20 tokens, and allows for anyone (including those without shares) to make a proposal to the DAO.
 
-Read more about what we have done, and are doing here:  https://medium.com/zero-waste-advocacy-iot/the-tao-of-an-impact-dao-14e012ccf1fd
+Read more about us on [medium](https://medium.com/zero-waste-advocacy-iot/the-tao-of-an-impact-dao-14e012ccf1fd)
