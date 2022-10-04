@@ -4,26 +4,26 @@ title: RIPs
 sidebar_label: RIPs
 ---
 
-### Apply for RIP Funding
+### Apply for SIP Funding. (THIS COMES LATER IN THE DAO)
 
-Save dao Improvement Proposals, commonly referred to as “RIPs”, are an invaluable piece to ensuring that Save dao operates at its fullest capacity 24/7.  
+Save dao Improvement Proposals, commonly referred to as “SIPs”, are an invaluable piece to ensuring that Save dao operates at its fullest capacity 24/7.  
 
-RIPs are generally focused on dao internal operations, but in some cases, RIPs have manifested in the dao building open-source tools for the wider web3 ecosystem.  
+SIPs are generally focused on dao internal operations, but in some cases, SIPs have manifested in the dao building open-source tools for the wider web3 ecosystem.  
 
-[Smart Invoice](https://smartinvoice.xyz/) is a great example, as it began development as an internal tool (escrow) for Savers to obtain payment from their clients.  
+[Smart Invoice](https://savedao-smartinvoice.on.fleek.co/) is a great example, as it began development as an internal tool (escrow) for members to obtain payment from clients.  
 
 If this excites you, we encourage you to keep reading! 
 
-Looking to receive funding for a Save dao Improvement Proposal (RIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
+Looking to receive funding for a Save dao Improvement Proposal (SIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
 
--   Create an issue on the [RIPs Repo](https://github.com/Save-dao/RIPs/issues/new?assignees=&labels=RIP&template=rip-request.md&title=) detailing why it benefits the DAO and how it will be executed.
--   Add the new issue to the [RIP Requests](https://github.com/Save-dao/RIPs/projects/1) Project (or ask a keeper).
--   Share that request in Discord under the <span class='channels'>#rip-discussion</span> dao HQ channel.
+-   Create an issue on the [SIPs Repo TBD](git link) detailing why it benefits the DAO and how it will be executed.
+-   Add the new issue to the [SIP Requests TBD](git link) Project (or ask a keeper).
+-   Share that request in Discord under the <span class='channels'>#dev</span> dao "mothership" category.
 
-If you don’t yet have the talent you need to execute the RIP, make sure to drop a link to your proposal along with a brief TL;DR to the <span class='channels'>#who-is-available</span> channel and outline the different `roles` you need for the RIP.  Share the proposal during the weekly Roundtable for additional comments and feedback.
+If you don’t yet have the talent you need to execute the SIP, make sure to drop a link to your proposal along with a brief TL;DR to the <span class='channels'>#dev</span> channel and outline the different `roles` you need for the SIP.  Share the proposal during the weekly Roundtable for additional comments and feedback.
 
 Once you have completed the preceding steps, double check to make sure you and your team have everything you need to make an official proposal to the DAO
 
-Next, refer to the proposal process below to request funding for your RIP.
+Next, refer to the proposal process below to request funding for your SIP.
 
 By following these steps, your proposal will receive far more feedback and have a much higher chance of being passed.
