@@ -3,6 +3,7 @@ module.exports = {
     Overview: [
       "overview",
       "overview-code-of-conduct",
+      "overview-covenant",
       "overview-molochv2-primer",
       // "overview-raid-guild-shares",
       "overview-roles",
