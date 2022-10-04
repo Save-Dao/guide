@@ -15,7 +15,7 @@ We also recognize that Championing involves a degree of mentorship. To encourage
 To champion a new member, a Champion must stake $SAVEx. The stake amount depends on the type of applicant:
 * If the applicant has finished one of the Save Dao Cohorts, the required stake is `x $SAVEx` TBD
     * Exception: if the Champion is from the same cohort season as the applicant, the required stake is the same as for non-cohort applicants.
-* If not, the required stake is `x(x2) $Save` TBD 
+* If not, the required stake is `x(x2) $SAVEx` TBD 
 
 The Champion will receive their stake back if the new member meets the [success criteria](./champion-a-member#Success-Criteria) outlined below.
 
