@@ -9,9 +9,9 @@ Members can make a number of different proposals including:
 -   **Membership** - Tributing capital and Requesting new shares to join the DAO
 -   **Funding** - Tributing Spoils or Requesting funds from the DAO to work on internal projects and improvements
 -   **Token** -  Request to add support for a new ERC20 token
--   **Trade**  - Request the DAO to swap one asset for another within the War Chest
+-   **Trade**  - Request the DAO to swap one asset for another within the Treasury
 -   **GuildKick** - Request to forcibly remove a malicious member through a vote
--   **Minion** - A contract that allows execution of arbitrary calls i.e swapping assets in War Chest
+-   **Minion** - A contract that allows execution of arbitrary calls i.e swapping assets in Treasury
 
 
 ### Proposal Process
@@ -24,10 +24,10 @@ Select the Proposal Type (described above) and fill in all fields. Here are some
 -   **DESCRIPTION:** Anything you believe is relevant to your proposal. The shorter the description the better, and the important piece here is the _WHAT_ you are asking for and _WHY_.
 -   **LINK:** Whatever information gives us the best context to review your proposal and make an informed decision.
 -   **APPLICANT** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.  
--   **PAYMENT REQUESTED:** The number of Shares requested. Every Raid Guild Share is equal to 5 wxDAI. New membership proposals may request a maximum of 100 shares for a total of 500 wxDAI.
+-   **PAYMENT REQUESTED:** The number of Shares requested. Every Save dao Share is equal to 10 xDAI. New membership proposals may request a maximum of 44 SAVEx shares for a total of 440 wxDAI.
 -   **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to 20% of the total amount requested.
--   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 5 wxDAI/share.
--   **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the War Chest. (Tribute is relevant to Membership and Funding Proposals).
+-   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 10 xDAI/share.
+-   **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the Treasury. (Tribute is relevant to Membership and Funding Proposals).
 
 After submitting a proposal, it will enter the **Unsponsored Proposals** section. This means someone with shares (which could be you) must Champion the proposal in order for it to be moved to voting.
 
@@ -56,9 +56,9 @@ _Note: If you mess up your proposal, you can cancel it while in it remains Unspo
 
 | Name                    | xDAI Address                               | Mainnet Address (deprecated)               |
 | ----------------------- | ------------------------------------------ | ------------------------------------------ |
-| DAO                     | 0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d |
+| DAO                     | 0x53315fa129e1cCcC51d8575105755505750F5A38 | 0x48cf4a3c08603f196be531ee1558b6aa641733c7 |
 | ENS Subdomain Registrar | TBD                                        | 0x5Cb634C351A03FF2BfB59C73dB8B429FFdFBbB62 |
-| ETH Registry            | TBD                                        | 0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85 |
+| ETH Registry            | saveswap.eth                               | 0x53315fa129e1cCcC51d8575105755505750F5A38 |
 | Multisig                | TBD                                        | 0x3C3692681cD1c0F42FA68A2521719Cc24CEc3AF3 |
 | Minion                  | TBD                                        | 0x17405148473E521b62cBCf8eBd929E8A30C4D3aA |
 | NFT Certificates        | TBD                                        | 0x7b408ad9019c20c5a1222Bf7f7e58A6Fa00A086a |
