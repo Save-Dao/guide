@@ -30,7 +30,7 @@ New members are successful when they contribute to the Save Dao community, bring
 Within the first 60 days after their membership proposal is processed, new members must:
 
  - Successfully complete all the [quests](https://save-dao.crew3.xyz/questboard)
- - Contribute to an approved $SAVE Campaign, or bring us a paid project proposal worth 5000+xdai.
+ - Contribute to an approved $SAVE Campaign, or bring us a paid project proposal worth 5000+xdai. (first 10 waived)
  - Attend at least 4 Dao meetings, including Zoom Roundtables and the "Campfire" stage in discord.
  - Demonstrate shared values with the Dao (at the discretion of the DAO).
 
