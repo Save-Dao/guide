@@ -1,3 +1,9 @@
+---
+id: overview-covenant
+title: Covenant
+sidebar_label: Covenant
+---
+
 This project is for the good of mankind and done with good faith. All participants, by participation in the dao activities accept terms of this covenant. 
 Participants agree to arbitrate disagreements through Lexdao.
 This agreement may not be altered anywhere other than here in github. 
