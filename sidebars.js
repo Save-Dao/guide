@@ -9,7 +9,7 @@ module.exports = {
       "overview-roles",
     ],
     "Membership": [
-      "become-an-apprentice",
+      "become-a-sidekick",
       "become-a-member",
       "champion-a-member"
 
