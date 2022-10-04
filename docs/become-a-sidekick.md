@@ -14,7 +14,7 @@ All new entries will start as an sidekick. Sidekicks can be upgraded to a member
 
 1. Submit an application on the Save Dao homepage > [Join Us](https://www.adbongo.io/join-the-dao).
 
-    - Take your time filling out the Join Us form, as we will determine whether or not you’re a good fit for the Dao based on your ability to effectively communicate your skills and the value you will bring to the Dao as an Sidekick. Also, keep in mind that simply filling out the “Join Us” form does not guarantee you entry into Save Dao as an Sidekickj.
+    - Take your time filling out the Join Us form, as we will determine whether or not you’re a good fit for the Dao based on your ability to effectively communicate your skills and the value you will bring to the Dao as an Sidekick. Also, keep in mind that simply filling out the “Join Us” form does not guarantee you entry into Save Dao as an Sidekick.
 
 2. Join the [Save Dao Discord](https://discord.com/invite/RWjkQ6DNnv) and introduce yourself in <span class='channels'>#tavern</span>. 
 3. Showcase your past work and skills in <span class='channels'>#showcase</span>.
