@@ -9,7 +9,7 @@ import styles from "./styles.module.css";
 const features = [
     {
         title: "Dao Structure",
-        imageUrl: "img/crown.svg",
+        imageUrl: "img/crown.png",
         description: (
             <>
                 Learn how Save Dao is structured into different guilds and
@@ -20,7 +20,7 @@ const features = [
     },
     {
         title: "Save the World",
-        imageUrl: "img/axes.svg",
+        imageUrl: "img/axes.png",
         description: (
             <>
                 The handbook contains all the guidelines, tools and resources to
@@ -30,7 +30,7 @@ const features = [
     },
     {
         title: "Internal Ops",
-        imageUrl: "img/magic.svg",
+        imageUrl: "img/magic.png",
         description: (
             <>
                 How we collaborate and coordinate is the most important thing
