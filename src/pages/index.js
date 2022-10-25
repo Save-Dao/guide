@@ -20,7 +20,7 @@ const features = [
     },
     {
         title: "Save the World",
-        imageUrl: "img/axes.png",
+        imageUrl: "img/axe.png",
         description: (
             <>
                 The handbook contains all the guidelines, tools and resources to
@@ -30,7 +30,7 @@ const features = [
     },
     {
         title: "Internal Ops",
-        imageUrl: "img/magic.png",
+        imageUrl: "img/wand.png",
         description: (
             <>
                 How we collaborate and coordinate is the most important thing
