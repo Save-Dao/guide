@@ -1,7 +1,7 @@
 module.exports = {
     title: "Save Guide",
     tagline: "Magical Internet Organization Grimoire",
-    url: "https://github.com",
+    url: "http://guide.adbongo.io/",
     baseUrl: "/",
     favicon: "img/sd-icon.png",
     onBrokenLinks: "ignore",
