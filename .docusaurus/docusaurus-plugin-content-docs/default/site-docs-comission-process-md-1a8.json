@@ -2,7 +2,7 @@
   "unversionedId": "commission-process",
   "id": "commission-process",
   "title": "Commission Process",
-  "description": "After the Save enters Prepping for Campaign, the Cleric who led the consultation is responsible for gathering additional Saveers as is necessary to scope out the full project.",
+  "description": "After the Campaign enters Prepping for Campaign, the Cleric who led the consultation is responsible for gathering additional Campaigners as is necessary to scope out the full project.",
   "source": "@site/docs/comission-process.md",
   "sourceDirName": ".",
   "slug": "/commission-process",
@@ -17,11 +17,11 @@
   },
   "sidebar": "howSidebar",
   "previous": {
-    "title": "Convert Client Submission Into a SAVE",
+    "title": "Convert Client Submission Into a Campaign",
     "permalink": "/docs/convert-client-submission"
   },
   "next": {
     "title": "Summon a SAVE Party",
-    "permalink": "/docs/summon-a-SAVE-party"
+    "permalink": "/docs/summon-a-campaign-party"
   }
 }

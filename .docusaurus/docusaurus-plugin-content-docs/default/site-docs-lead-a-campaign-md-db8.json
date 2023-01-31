@@ -1,0 +1,27 @@
+{
+  "unversionedId": "lead-a-campaign",
+  "id": "lead-a-campaign",
+  "title": "Lead a Campaign",
+  "description": "Well well well! Welcome to the big leagues.",
+  "source": "@site/docs/lead-a-campaign.md",
+  "sourceDirName": ".",
+  "slug": "/lead-a-campaign",
+  "permalink": "/docs/lead-a-campaign",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/lead-a-campaign.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "lead-a-campaign",
+    "title": "Lead a Campaign",
+    "sidebar_label": "Lead a Campaign"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Summon a SAVE Party",
+    "permalink": "/docs/summon-a-campaign-party"
+  },
+  "next": {
+    "title": "Ship a SAVE",
+    "permalink": "/docs/shipped"
+  }
+}

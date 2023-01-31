@@ -68,11 +68,11 @@
       },
       {
         "type": "category",
-        "label": "Saves",
+        "label": "Campaigns",
         "items": [
           {
             "type": "link",
-            "label": "Convert Client Submission Into a SAVE",
+            "label": "Convert Client Submission Into a Campaign",
             "href": "/docs/convert-client-submission",
             "docId": "convert-client-submission"
           },
@@ -85,14 +85,14 @@
           {
             "type": "link",
             "label": "Summon a SAVE Party",
-            "href": "/docs/summon-a-SAVE-party",
-            "docId": "summon-a-SAVE-party"
+            "href": "/docs/summon-a-campaign-party",
+            "docId": "summon-a-campaign-party"
           },
           {
             "type": "link",
-            "label": "Lead a Save",
-            "href": "/docs/lead-a-save",
-            "docId": "lead-a-save"
+            "label": "Lead a Campaign",
+            "href": "/docs/lead-a-campaign",
+            "docId": "lead-a-campaign"
           },
           {
             "type": "link",
@@ -238,30 +238,30 @@
     "become-a-member": {
       "id": "become-a-member",
       "title": "Become a Member",
-      "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
+      "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Adbongo Org Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
       "sidebar": "howSidebar"
     },
     "become-a-sidekick": {
       "id": "become-a-sidekick",
       "title": "Become a Sidekick",
-      "description": "Save Dao has instituted a new onboarding process through the utilization of Cohorts.",
+      "description": "Adbongo Org has instituted a new onboarding process through the utilization of Cohorts.",
       "sidebar": "howSidebar"
     },
     "champion-a-member": {
       "id": "champion-a-member",
       "title": "Champion a New Member",
-      "description": "Save Dao grows organically, adding new members as individual existing members deem appropriate and champion them in. Our championing process relies both on the Champion being a good judge of who is a good fit for the Dao as well as on the Champion’s reputation within the Dao being at stake.",
+      "description": "Adbongo Org grows organically, adding new members as individual existing members deem appropriate and champion them in. Our championing process relies both on the Champion being a good judge of who is a good fit for the Dao as well as on the Champion’s reputation within the Dao being at stake.",
       "sidebar": "howSidebar"
     },
     "client-instructions": {
       "id": "client-instructions",
       "title": "Instructions for Client Payment",
-      "description": "The Save party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:"
+      "description": "The Campaign party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:"
     },
     "commission-process": {
       "id": "commission-process",
       "title": "Commission Process",
-      "description": "After the Save enters Prepping for Campaign, the Cleric who led the consultation is responsible for gathering additional Saveers as is necessary to scope out the full project.",
+      "description": "After the Campaign enters Prepping for Campaign, the Cleric who led the consultation is responsible for gathering additional Campaigners as is necessary to scope out the full project.",
       "sidebar": "howSidebar"
     },
     "community-forum": {
@@ -279,7 +279,7 @@
     "community-overview": {
       "id": "community-overview",
       "title": "Overview",
-      "description": "There are a few meetings each week that we encourage all Dao Members to attend.  Save Rally is a meeting for Dao members to discuss progress across different RIPs and Saves, as well as provide teams in the _Preparing for Campaign phase with possible personnel for their Save/RIP.",
+      "description": "There are a few meetings each week that we encourage all Dao Members to attend.  Campaign Rally is a meeting for Dao members to discuss progress across different RIPs and Campaigns, as well as provide teams in the _Preparing for Campaign phase with possible personnel for their Campaign/RIP.",
       "sidebar": "howSidebar"
     },
     "community-social-media": {
@@ -290,14 +290,14 @@
     },
     "convert-client-submission": {
       "id": "convert-client-submission",
-      "title": "Convert Client Submission Into a SAVE",
+      "title": "Convert Client Submission Into a Campaign",
       "description": "Uncategorized",
       "sidebar": "howSidebar"
     },
     "discord-bots": {
       "id": "discord-bots",
       "title": "Discord Bots",
-      "description": "Do Save Dao Bots Dream of Electric Tweets?",
+      "description": "Do Adbongo Org Bots Dream of Electric Tweets?",
       "sidebar": "howSidebar"
     },
     "discord-channels": {
@@ -371,9 +371,9 @@
       "title": "Join a campaign",
       "description": "Any member with at least one Share is eligible to join an existing campaign."
     },
-    "lead-a-save": {
-      "id": "lead-a-save",
-      "title": "Lead a Save",
+    "lead-a-campaign": {
+      "id": "lead-a-campaign",
+      "title": "Lead a Campaign",
       "description": "Well well well! Welcome to the big leagues.",
       "sidebar": "howSidebar"
     },
@@ -457,8 +457,8 @@
       "description": "Shipped",
       "sidebar": "howSidebar"
     },
-    "summon-a-SAVE-party": {
-      "id": "summon-a-SAVE-party",
+    "summon-a-campaign-party": {
+      "id": "summon-a-campaign-party",
       "title": "Summon a SAVE Party",
       "description": "The best place to Summon new Members for a SAVE is in the DAO DISCORD HQ #save-campaign channel by tagging the roles in question.",
       "sidebar": "howSidebar"

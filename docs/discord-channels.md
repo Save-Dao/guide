@@ -16,7 +16,7 @@ Public channels are available to everyone in the Discord. This offers a crossing
 | _#staff_             | Closed     | Private chat for members                                                                  |
 | _#sales_             | Closed     | Private chat for sales training and best practices                                        |
 | _#legal_             | Closed     | Legal Chat for dao members                                                                |
-| _#save-campaign      | Open       | General Chat for all dao clients                                                          |
+| _#Campaign-campaign      | Open       | General Chat for all dao clients                                                          |
 | _#events_            | Open       | A dedicated place to drop links for events & online meetups                               |
 | _#wine-cellar_       | Open       | A place to share your projects and get help testing and user research                     |
 | _#portfolio_         | Open       | Show and tell portfolio for Dao Members                                                   |
@@ -52,13 +52,13 @@ Seasons are a method of engagement that were introduced by Dao members in Februa
 
 ## Dao HQ 
 
-HQ is where we discuss Adbongo Org Improvements and is a place where a variety of conversations take place.  Daoers chat with one another about general Save questions and feedback, discuss Client submissions and find new Daoers to form a Save Party. If you’re looking for people to help you on your Save, Dao HQ is a great first place to start.  Dao HQ is also where you’ll look when chatting about anything to help make Adbongo Org better than it is today.
+HQ is where we discuss Adbongo Org Improvements and is a place where a variety of conversations take place.  Daoers chat with one another about general Campaign questions and feedback, discuss Client submissions and find new Daoers to form a Campaign Party. If you’re looking for people to help you on your Campaign, Dao HQ is a great first place to start.  Dao HQ is also where you’ll look when chatting about anything to help make Adbongo Org better than it is today.
 
-Got an idea for how to improve Adbongo Org with an internal Save? Check out <span class='channels'>#rip-discussion</span> to make a Save Improvement Proposal (RIP) and get feedback and soft consensus form other Daoers.
+Got an idea for how to improve Adbongo Org with an internal Campaign? Check out <span class='channels'>#rip-discussion</span> to make a Campaign Improvement Proposal (RIP) and get feedback and soft consensus form other Daoers.
 
 | Name                  | Visibility   | Purpose                                                                         |
 | --------------------- | ------------ | ------------------------------------------------------------------------------- |
-| _#who-is-avaliable_   | Members Only | A place to find team members to jump on new Saves by mentioning roles required  |
+| _#who-is-avaliable_   | Members Only | A place to find team members to jump on new Campaigns by mentioning roles required  |
 | _#client-submissions_ | Members Only | Data from client requests on Airtable form are dropped into this channel        |
 | _#announcements_      | Members Only | Dao wide announcements and updates                                            |
 | _#rip-discussion_     | Members Only | A place to discuss Adbongo Org Improvement Proposals                             |
@@ -105,7 +105,7 @@ Media is where the Dao converses about anything external facing.
 | Name              | Visibility   | Purpose                                                                                |
 | ----------------- | ------------ | -------------------------------------------------------------------------------------- |
 | _#product_        | Members Only | A channel for dicussing web3 products                                                  |
-| _#newsletter_     | Members Only | A channel for discussing State of the Save                                             |
+| _#newsletter_     | Members Only | A channel for discussing State of the Campaign                                             |
 | _#shill-shoptalk_ | Members Only | A channel for making our clients marketing dreams a reality                            |
 | _#wordsmiths_     | Members Only | A channel for coordinating documentation needs in and outside the Dao                |
 
@@ -120,34 +120,34 @@ House of Bits & Design is where more in depth conversations take place regarding
 
 ## Machine Shop
 
-Machine Shop is where our discord bot currently lives.  Members can use these channels to discuss anything bots related or to obtain important information about Saveer availablity for instance.
+Machine Shop is where our discord bot currently lives.  Members can use these channels to discuss anything bots related or to obtain important information about Campaigner availablity for instance.
 
 | Name              | Visibility   | Purpose                                                                                |
 | ----------------- | ------------ | -------------------------------------------------------------------------------------- |
 | _#bot-chat_       | Members Only | All discussions, feature requests, bug reports about bots can made here.               |
 | _#command-center_ | Members Only | A channel for all bot commands.                                                        |
 
-### Active Saves/RIPs
+### Active Campaigns/RIPs
 
-This is where all active Saves are listed. You will notice each subchannel starts with <span class='channels'>#Save</span> signalling it is an ongoing engagement. Each Save is given a unique name and a pinned message which describes what the Save is about.
+This is where all active Campaigns are listed. You will notice each subchannel starts with <span class='channels'>#Campaign</span> signalling it is an ongoing engagement. Each Campaign is given a unique name and a pinned message which describes what the Campaign is about.
 
-Keen to get involved with a given Save? Slide through the subchannel and politely ask where you can add value. More times than not Saves can always use an extra hand!
+Keen to get involved with a given Campaign? Slide through the subchannel and politely ask where you can add value. More times than not Campaigns can always use an extra hand!
 
 | Name                          | Visibility   | Purpose                                                                                                                 |
 | ----------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| _#[Save-project/rip-project]_ | Members Only | Projects you’re working on go here. Each channel requires a pinned message so other members know what the Save entails. |
+| _#[Campaign-project/rip-project]_ | Members Only | Projects you’re working on go here. Each channel requires a pinned message so other members know what the Campaign entails. |
 
 ### Client Chats
 
-As we sort out an engagement with a client, we may open a Client Chat subchannel to discuss the scope and figure out exactly what is needed. Client chats are a great way to get some visibility into who’s on the other side of a Save, and their tone, expectations and budget for an ongoing Save.
+As we sort out an engagement with a client, we may open a Client Chat subchannel to discuss the scope and figure out exactly what is needed. Client chats are a great way to get some visibility into who’s on the other side of a Campaign, and their tone, expectations and budget for an ongoing Campaign.
 
-Not all Saves have a Client Chat in Discord, as many times this happens outside of Discord on platforms like Telegram. Please respect that all Client Chats are proprietary and that any information taken from Client Chats and used maliciously may result in a permanent banning from Adbongo Org.
+Not all Campaigns have a Client Chat in Discord, as many times this happens outside of Discord on platforms like Telegram. Please respect that all Client Chats are proprietary and that any information taken from Client Chats and used maliciously may result in a permanent banning from Adbongo Org.
 
 | Name                | Visibility   | Purpose                                               |
 | ------------------- | ------------ | ----------------------------------------------------- |
-| _#[client-project]_ | Members Only | Client and team discussions before starting the Save. |
+| _#[client-project]_ | Members Only | Client and team discussions before starting the Campaign. |
 
-### Valhalla Closed Saves
+### Valhalla Closed Campaigns
 
-Archived Save channels that have been closed out. Learn more about when it’s time to close a Save using How To Close a Save.
+Archived Campaign channels that have been closed out. Learn more about when it’s time to close a Campaign using How To Close a Campaign.
 

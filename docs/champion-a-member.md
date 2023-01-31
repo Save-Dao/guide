@@ -4,7 +4,7 @@ title: Champion a New Member
 sidebar_label: Champion a New Member
 ---
 
-Save Dao grows organically, adding new members as individual existing members deem appropriate and champion them in. Our championing process relies both on the Champion being a good judge of who is a good fit for the Dao as well as on the Champion’s reputation within the Dao being at stake.
+Adbongo Org grows organically, adding new members as individual existing members deem appropriate and champion them in. Our championing process relies both on the Champion being a good judge of who is a good fit for the Dao as well as on the Champion’s reputation within the Dao being at stake.
 
 In addition to reputation, to ensure that we are only bringing the highests quality new members, Champions must also put down $SAVEx as a semi-financial stake.
 
@@ -13,7 +13,7 @@ We also recognize that Championing involves a degree of mentorship. To encourage
 ### $SAVEx Staking 
 
 To champion a new member, a Champion must stake $SAVEx. The stake amount depends on the type of applicant:
-* If the applicant has finished one of the Save Dao Cohorts, the required stake is `x $SAVEx` TBD
+* If the applicant has finished one of the Adbongo Org Cohorts, the required stake is `x $SAVEx` TBD
     * Exception: if the Champion is from the same cohort season as the applicant, the required stake is the same as for non-cohort applicants.
 * If not, the required stake is `x(x2) $SAVEx` TBD 
 
@@ -25,7 +25,7 @@ Champions receive a reward of `44 SAVEx` if their new member meets [success crit
 
 ### Success Criteria
 
-New members are successful when they contribute to the Save Dao community, bring in value to the Dao, and earn income for themselves.
+New members are successful when they contribute to the Adbongo Org community, bring in value to the Dao, and earn income for themselves.
 
 Within the first 60 days after their membership proposal is processed, new members must:
 

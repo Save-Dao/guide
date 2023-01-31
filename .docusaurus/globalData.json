@@ -123,8 +123,8 @@
               "path": "/docs/join-a-campaign"
             },
             {
-              "id": "lead-a-save",
-              "path": "/docs/lead-a-save",
+              "id": "lead-a-campaign",
+              "path": "/docs/lead-a-campaign",
               "sidebar": "howSidebar"
             },
             {
@@ -194,8 +194,8 @@
               "sidebar": "howSidebar"
             },
             {
-              "id": "summon-a-SAVE-party",
-              "path": "/docs/summon-a-SAVE-party",
+              "id": "summon-a-campaign-party",
+              "path": "/docs/summon-a-campaign-party",
               "sidebar": "howSidebar"
             }
           ],

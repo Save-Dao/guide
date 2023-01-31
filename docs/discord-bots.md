@@ -4,9 +4,9 @@ title: Discord Bots
 sidebar_label: Discord Bots
 ---
 
-_Do Save Dao Bots Dream of Electric Tweets?_
+_Do Adbongo Org Bots Dream of Electric Tweets?_
 
-The Save Dao relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Save Dao Discord Server.]  (https://discord.gg/5Cnkpgrgvd)
+The Adbongo Org relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Adbongo Org Discord Server.]  (https://discord.gg/5Cnkpgrgvd)
 
 
 ## MEE6
@@ -44,7 +44,7 @@ Partner bots: https://botlabs.gg/bots
 
 ## Haus Bot
 
-This bot is operating on Save Dao discord channels #general for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
+This bot is operating on Adbongo Org discord channels #general for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
 
 - the name fo the proposal
 - a short description of the proposal

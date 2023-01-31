@@ -2,7 +2,7 @@
   "unversionedId": "become-a-member",
   "id": "become-a-member",
   "title": "Become a Member",
-  "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
+  "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Adbongo Org Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
   "source": "@site/docs/become-a-member.md",
   "sourceDirName": ".",
   "slug": "/become-a-member",

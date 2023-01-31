@@ -14,7 +14,7 @@ module.exports = {
       "champion-a-member"
 
     ],
-    Saves: [
+    Campaigns: [
       "convert-client-submission",
       "commission-process",
       // {
@@ -27,9 +27,9 @@ module.exports = {
       //     "references",
       //   ],
       // },
-      "summon-a-SAVE-party",
+      "summon-a-campaign-party",
       // "join-a-save",
-      "lead-a-save",
+      "lead-a-campaign",
       "shipped", 
     ],
     "Operations": [

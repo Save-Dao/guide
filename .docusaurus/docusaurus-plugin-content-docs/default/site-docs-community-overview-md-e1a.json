@@ -2,7 +2,7 @@
   "unversionedId": "community-overview",
   "id": "community-overview",
   "title": "Overview",
-  "description": "There are a few meetings each week that we encourage all Dao Members to attend.  Save Rally is a meeting for Dao members to discuss progress across different RIPs and Saves, as well as provide teams in the _Preparing for Campaign phase with possible personnel for their Save/RIP.",
+  "description": "There are a few meetings each week that we encourage all Dao Members to attend.  Campaign Rally is a meeting for Dao members to discuss progress across different RIPs and Campaigns, as well as provide teams in the _Preparing for Campaign phase with possible personnel for their Campaign/RIP.",
   "source": "@site/docs/community-overview.md",
   "sourceDirName": ".",
   "slug": "/community-overview",

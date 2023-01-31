@@ -4,18 +4,18 @@ Your edits in this file will be overwritten in the next build!
 Modify the docusaurus.config.js file at your site's root instead.
 */
 export default {
-  "title": "Save Guide",
+  "title": "Adbongo Guide",
   "tagline": "Magical Internet Organization Grimoire",
   "url": "http://guide.adbongo.io/",
   "baseUrl": "/",
   "favicon": "img/sd-icon.png",
   "onBrokenLinks": "ignore",
-  "organizationName": "Save-Dao",
+  "organizationName": "Adbongo",
   "projectName": "Mio-grimoire",
   "themeConfig": {
     "navbar": {
       "logo": {
-        "alt": "Save Dao Logo",
+        "alt": "Adbongo Logo",
         "src": "img/sd-icon.png"
       },
       "items": [
@@ -29,7 +29,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2023 SAVE, DAO",
+      "copyright": "Copyright © 2023 Adbongo",
       "links": []
     },
     "colorMode": {

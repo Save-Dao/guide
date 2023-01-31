@@ -1,7 +1,7 @@
 {
   "unversionedId": "convert-client-submission",
   "id": "convert-client-submission",
-  "title": "Convert Client Submission Into a SAVE",
+  "title": "Convert Client Submission Into a Campaign",
   "description": "Uncategorized",
   "source": "@site/docs/convert-client-submission.md",
   "sourceDirName": ".",
@@ -12,8 +12,8 @@
   "version": "current",
   "frontMatter": {
     "id": "convert-client-submission",
-    "title": "Convert Client Submission Into a SAVE",
-    "sidebar_label": "Convert Client Submission Into a SAVE"
+    "title": "Convert Client Submission Into a Campaign",
+    "sidebar_label": "Convert Client Submission Into a Campaign"
   },
   "sidebar": "howSidebar",
   "previous": {

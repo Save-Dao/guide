@@ -10,7 +10,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','192'),
+    component: ComponentCreator('/docs','ea6'),
     routes: [
       {
         path: '/docs/become-a-member',
@@ -149,8 +149,8 @@ export default [
         exact: true
       },
       {
-        path: '/docs/lead-a-save',
-        component: ComponentCreator('/docs/lead-a-save','e76'),
+        path: '/docs/lead-a-campaign',
+        component: ComponentCreator('/docs/lead-a-campaign','40f'),
         exact: true,
         'sidebar': "howSidebar"
       },
@@ -235,8 +235,8 @@ export default [
         'sidebar': "howSidebar"
       },
       {
-        path: '/docs/summon-a-SAVE-party',
-        component: ComponentCreator('/docs/summon-a-SAVE-party','528'),
+        path: '/docs/summon-a-campaign-party',
+        component: ComponentCreator('/docs/summon-a-campaign-party','534'),
         exact: true,
         'sidebar': "howSidebar"
       }

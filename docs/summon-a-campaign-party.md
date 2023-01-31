@@ -1,5 +1,5 @@
 ---
-id: summon-a-SAVE-party
+id: summon-a-campaign-party
 title: Summon a SAVE Party
 sidebar_label: Summon a SAVE Party
 ---

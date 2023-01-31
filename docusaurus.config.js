@@ -1,16 +1,16 @@
 module.exports = {
-    title: "Save Guide",
+    title: "Adbongo Guide",
     tagline: "Magical Internet Organization Grimoire",
     url: "http://guide.adbongo.io/",
     baseUrl: "/",
     favicon: "img/sd-icon.png",
     onBrokenLinks: "ignore",
-    organizationName: "Save-Dao", // Usually your GitHub org/user name.
+    organizationName: "Adbongo", // Usually your GitHub org/user name.
     projectName: "Mio-grimoire", // Usually your repo name.
     themeConfig: {
         navbar: {
             logo: {
-                alt: "Save Dao Logo",
+                alt: "Adbongo Logo",
                 src: "img/sd-icon.png",
             },
             items: [
@@ -53,7 +53,7 @@ module.exports = {
             //     ]
             //   }
             // ],
-            copyright: `Copyright © ${new Date().getFullYear()} SAVE, DAO`,
+            copyright: `Copyright © ${new Date().getFullYear()} Adbongo`,
         },
     },
     presets: [
