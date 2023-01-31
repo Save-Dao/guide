@@ -4,248 +4,253 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/guide/blog/archive',
-    component: ComponentCreator('/guide/blog/archive','c11'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive','f4c'),
     exact: true
   },
   {
-    path: '/guide/docs',
-    component: ComponentCreator('/guide/docs','3b9'),
+    path: '/docs',
+    component: ComponentCreator('/docs','58a'),
     routes: [
       {
-        path: '/guide/docs/become-a-member',
-        component: ComponentCreator('/guide/docs/become-a-member','21e'),
+        path: '/docs/become-a-member',
+        component: ComponentCreator('/docs/become-a-member','8e5'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/become-an-apprentice',
-        component: ComponentCreator('/guide/docs/become-an-apprentice','9fe'),
+        path: '/docs/become-a-sidekick',
+        component: ComponentCreator('/docs/become-a-sidekick','b93'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/champion-a-member',
-        component: ComponentCreator('/guide/docs/champion-a-member','0fe'),
+        path: '/docs/champion-a-member',
+        component: ComponentCreator('/docs/champion-a-member','a6b'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/client-instructions',
-        component: ComponentCreator('/guide/docs/client-instructions','b66'),
+        path: '/docs/client-instructions',
+        component: ComponentCreator('/docs/client-instructions','ca9'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/commission-process',
-        component: ComponentCreator('/guide/docs/commission-process','6b8'),
+        path: '/docs/commission-process',
+        component: ComponentCreator('/docs/commission-process','42f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/community-forum',
-        component: ComponentCreator('/guide/docs/community-forum','6fe'),
+        path: '/docs/community-forum',
+        component: ComponentCreator('/docs/community-forum','96f'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/community-meetings',
-        component: ComponentCreator('/guide/docs/community-meetings','648'),
+        path: '/docs/community-meetings',
+        component: ComponentCreator('/docs/community-meetings','729'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/community-overview',
-        component: ComponentCreator('/guide/docs/community-overview','6b1'),
+        path: '/docs/community-overview',
+        component: ComponentCreator('/docs/community-overview','23e'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/community-social-media',
-        component: ComponentCreator('/guide/docs/community-social-media','258'),
+        path: '/docs/community-social-media',
+        component: ComponentCreator('/docs/community-social-media','602'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/convert-client-submission',
-        component: ComponentCreator('/guide/docs/convert-client-submission','472'),
+        path: '/docs/convert-client-submission',
+        component: ComponentCreator('/docs/convert-client-submission','6c8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/discord-bots',
-        component: ComponentCreator('/guide/docs/discord-bots','cc1'),
+        path: '/docs/discord-bots',
+        component: ComponentCreator('/docs/discord-bots','33b'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/discord-channels',
-        component: ComponentCreator('/guide/docs/discord-channels','330'),
+        path: '/docs/discord-channels',
+        component: ComponentCreator('/docs/discord-channels','e66'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/discord-etiquette',
-        component: ComponentCreator('/guide/docs/discord-etiquette','aff'),
+        path: '/docs/discord-etiquette',
+        component: ComponentCreator('/docs/discord-etiquette','e3b'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/discord-getting-started',
-        component: ComponentCreator('/guide/docs/discord-getting-started','daf'),
+        path: '/docs/discord-getting-started',
+        component: ComponentCreator('/docs/discord-getting-started','1a8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/discord-navigation-help',
-        component: ComponentCreator('/guide/docs/discord-navigation-help','61f'),
+        path: '/docs/discord-navigation-help',
+        component: ComponentCreator('/docs/discord-navigation-help','195'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/dispute',
-        component: ComponentCreator('/guide/docs/dispute','cf0'),
+        path: '/docs/dispute',
+        component: ComponentCreator('/docs/dispute','dc8'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/doc1',
-        component: ComponentCreator('/guide/docs/doc1','ac4'),
+        path: '/docs/doc1',
+        component: ComponentCreator('/docs/doc1','392'),
         exact: true
       },
       {
-        path: '/guide/docs/doc2',
-        component: ComponentCreator('/guide/docs/doc2','dc5'),
+        path: '/docs/doc2',
+        component: ComponentCreator('/docs/doc2','fd3'),
         exact: true
       },
       {
-        path: '/guide/docs/glossary',
-        component: ComponentCreator('/guide/docs/glossary','c00'),
+        path: '/docs/glossary',
+        component: ComponentCreator('/docs/glossary','241'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/happy-path',
-        component: ComponentCreator('/guide/docs/happy-path','efd'),
+        path: '/docs/happy-path',
+        component: ComponentCreator('/docs/happy-path','922'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/helping-docs',
-        component: ComponentCreator('/guide/docs/helping-docs','bd4'),
+        path: '/docs/helping-docs',
+        component: ComponentCreator('/docs/helping-docs','9d7'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/how-does-it-work',
-        component: ComponentCreator('/guide/docs/how-does-it-work','e85'),
+        path: '/docs/how-does-it-work',
+        component: ComponentCreator('/docs/how-does-it-work','b93'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/interacting-with-escrow',
-        component: ComponentCreator('/guide/docs/interacting-with-escrow','59b'),
+        path: '/docs/interacting-with-escrow',
+        component: ComponentCreator('/docs/interacting-with-escrow','27a'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/join-a-raid',
-        component: ComponentCreator('/guide/docs/join-a-raid','0de'),
+        path: '/docs/join-a-campaign',
+        component: ComponentCreator('/docs/join-a-campaign','e33'),
         exact: true
       },
       {
-        path: '/guide/docs/lead-a-save',
-        component: ComponentCreator('/guide/docs/lead-a-save','b9d'),
+        path: '/docs/lead-a-save',
+        component: ComponentCreator('/docs/lead-a-save','e76'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/learn-about-web3',
-        component: ComponentCreator('/guide/docs/learn-about-web3','b33'),
+        path: '/docs/learn-about-web3',
+        component: ComponentCreator('/docs/learn-about-web3','e36'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/mdx',
-        component: ComponentCreator('/guide/docs/mdx','d15'),
+        path: '/docs/mdx',
+        component: ComponentCreator('/docs/mdx','955'),
         exact: true
       },
       {
-        path: '/guide/docs/migration-to-xdai',
-        component: ComponentCreator('/guide/docs/migration-to-xdai','68f'),
+        path: '/docs/migration-to-xdai',
+        component: ComponentCreator('/docs/migration-to-xdai','f5c'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/overview',
-        component: ComponentCreator('/guide/docs/overview','5df'),
+        path: '/docs/overview',
+        component: ComponentCreator('/docs/overview','cd5'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/overview-code-of-conduct',
-        component: ComponentCreator('/guide/docs/overview-code-of-conduct','fdd'),
+        path: '/docs/overview-code-of-conduct',
+        component: ComponentCreator('/docs/overview-code-of-conduct','bb2'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/overview-molochv3-primer',
-        component: ComponentCreator('/guide/docs/overview-molochv3-primer','aa8'),
-        exact: true,
-        'sidebar': "howSidebar"
-      },
-      {
-        path: '/guide/docs/overview-roles',
-        component: ComponentCreator('/guide/docs/overview-roles','93b'),
-        exact: true,
-        'sidebar': "howSidebar"
-      },
-      {
-        path: '/guide/docs/overview-save-guild-shares',
-        component: ComponentCreator('/guide/docs/overview-save-guild-shares','e74'),
+        path: '/docs/overview-covenant',
+        component: ComponentCreator('/docs/overview-covenant','4da'),
         exact: true
       },
       {
-        path: '/guide/docs/proposal-types',
-        component: ComponentCreator('/guide/docs/proposal-types','c08'),
+        path: '/docs/overview-molochv3-primer',
+        component: ComponentCreator('/docs/overview-molochv3-primer','661'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/references',
-        component: ComponentCreator('/guide/docs/references','66f'),
+        path: '/docs/overview-roles',
+        component: ComponentCreator('/docs/overview-roles','1b6'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/requesting-payment',
-        component: ComponentCreator('/guide/docs/requesting-payment','c0f'),
+        path: '/docs/overview-save-guild-shares',
+        component: ComponentCreator('/docs/overview-save-guild-shares','a29'),
+        exact: true
+      },
+      {
+        path: '/docs/proposal-types',
+        component: ComponentCreator('/docs/proposal-types','6c7'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/rips',
-        component: ComponentCreator('/guide/docs/rips','5f8'),
+        path: '/docs/references',
+        component: ComponentCreator('/docs/references','ea6'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/shipped',
-        component: ComponentCreator('/guide/docs/shipped','16f'),
+        path: '/docs/requesting-payment',
+        component: ComponentCreator('/docs/requesting-payment','8e5'),
         exact: true,
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/summon-a-SAVE-party',
-        component: ComponentCreator('/guide/docs/summon-a-SAVE-party','2d9'),
+        path: '/docs/rips',
+        component: ComponentCreator('/docs/rips','04d'),
+        exact: true,
+        'sidebar': "howSidebar"
+      },
+      {
+        path: '/docs/shipped',
+        component: ComponentCreator('/docs/shipped','1ce'),
+        exact: true,
+        'sidebar': "howSidebar"
+      },
+      {
+        path: '/docs/summon-a-SAVE-party',
+        component: ComponentCreator('/docs/summon-a-SAVE-party','528'),
         exact: true,
         'sidebar': "howSidebar"
       }
     ]
   },
   {
-    path: '/guide/',
-    component: ComponentCreator('/guide/','131'),
+    path: '/',
+    component: ComponentCreator('/','deb'),
     exact: true
   },
   {

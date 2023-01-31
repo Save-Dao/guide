@@ -2,11 +2,11 @@
   "unversionedId": "rips",
   "id": "rips",
   "title": "RIPs",
-  "description": "Apply for RIP Funding",
+  "description": "Apply for SIP Funding. (THIS COMES LATER IN THE DAO)",
   "source": "@site/docs/rips.md",
   "sourceDirName": ".",
   "slug": "/rips",
-  "permalink": "/guide/docs/rips",
+  "permalink": "/docs/rips",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/rips.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Ship a SAVE",
-    "permalink": "/guide/docs/shipped"
+    "permalink": "/docs/shipped"
   },
   "next": {
     "title": "Proposal Types",
-    "permalink": "/guide/docs/proposal-types"
+    "permalink": "/docs/proposal-types"
   }
 }

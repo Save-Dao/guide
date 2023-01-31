@@ -2,11 +2,11 @@
   "unversionedId": "become-a-member",
   "id": "become-a-member",
   "title": "Become a Member",
-  "description": "To advance from an Apprentice to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, there are a few Your champion will need to put down a stake of $save tokens. See the Champion a New Member for how this works.",
+  "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
   "source": "@site/docs/become-a-member.md",
   "sourceDirName": ".",
   "slug": "/become-a-member",
-  "permalink": "/guide/docs/become-a-member",
+  "permalink": "/docs/become-a-member",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/become-a-member.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Become an Apprentice",
-    "permalink": "/guide/docs/become-an-apprentice"
+    "permalink": "/docs/become-a-sidekick"
   },
   "next": {
     "title": "Champion a New Member",
-    "permalink": "/guide/docs/champion-a-member"
+    "permalink": "/docs/champion-a-member"
   }
 }

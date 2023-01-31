@@ -6,7 +6,7 @@
   "source": "@site/docs/community-overview.md",
   "sourceDirName": ".",
   "slug": "/community-overview",
-  "permalink": "/guide/docs/community-overview",
+  "permalink": "/docs/community-overview",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-overview.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Discord Bots",
-    "permalink": "/guide/docs/discord-bots"
+    "permalink": "/docs/discord-bots"
   },
   "next": {
     "title": "Meetings",
-    "permalink": "/guide/docs/community-meetings"
+    "permalink": "/docs/community-meetings"
   }
 }

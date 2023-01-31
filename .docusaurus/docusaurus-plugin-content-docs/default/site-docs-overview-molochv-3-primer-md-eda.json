@@ -1,0 +1,27 @@
+{
+  "unversionedId": "overview-molochv3-primer",
+  "id": "overview-molochv3-primer",
+  "title": "Moloch V3",
+  "description": "Save Dao utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found here.",
+  "source": "@site/docs/overview-molochv3-primer.md",
+  "sourceDirName": ".",
+  "slug": "/overview-molochv3-primer",
+  "permalink": "/docs/overview-molochv3-primer",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-molochv3-primer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview-molochv3-primer",
+    "title": "Moloch V3",
+    "sidebar_label": "Moloch V3"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Code of Conduct",
+    "permalink": "/docs/overview-code-of-conduct"
+  },
+  "next": {
+    "title": "Roles",
+    "permalink": "/docs/overview-roles"
+  }
+}

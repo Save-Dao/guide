@@ -6,7 +6,7 @@
   "source": "@site/docs/discord-navigation-help.md",
   "sourceDirName": ".",
   "slug": "/discord-navigation-help",
-  "permalink": "/guide/docs/discord-navigation-help",
+  "permalink": "/docs/discord-navigation-help",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-navigation-help.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Channels",
-    "permalink": "/guide/docs/discord-channels"
+    "permalink": "/docs/discord-channels"
   },
   "next": {
     "title": "Discord Bots",
-    "permalink": "/guide/docs/discord-bots"
+    "permalink": "/docs/discord-bots"
   }
 }

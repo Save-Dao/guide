@@ -6,7 +6,7 @@
   "source": "@site/docs/overview-code-of-conduct.md",
   "sourceDirName": ".",
   "slug": "/overview-code-of-conduct",
-  "permalink": "/guide/docs/overview-code-of-conduct",
+  "permalink": "/docs/overview-code-of-conduct",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-code-of-conduct.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Intro",
-    "permalink": "/guide/docs/overview"
+    "permalink": "/docs/overview"
   },
   "next": {
-    "title": "Moloch V2",
-    "permalink": "/guide/docs/overview-molochv2-primer"
+    "title": "Moloch V3",
+    "permalink": "/docs/overview-molochv3-primer"
   }
 }

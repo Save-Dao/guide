@@ -6,7 +6,7 @@
   "source": "@site/docs/helping-docs.md",
   "sourceDirName": ".",
   "slug": "/helping-docs",
-  "permalink": "/guide/docs/helping-docs",
+  "permalink": "/docs/helping-docs",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/helping-docs.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Migration to xDAI",
-    "permalink": "/guide/docs/migration-to-xdai"
+    "permalink": "/docs/migration-to-xdai"
   }
 }

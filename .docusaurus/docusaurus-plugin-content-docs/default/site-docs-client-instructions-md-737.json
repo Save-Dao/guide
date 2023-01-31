@@ -6,7 +6,7 @@
   "source": "@site/docs/client-instructions.md",
   "sourceDirName": ".",
   "slug": "/client-instructions",
-  "permalink": "/guide/docs/client-instructions",
+  "permalink": "/docs/client-instructions",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/client-instructions.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Interacting With the Escrow",
-    "permalink": "/guide/docs/interacting-with-escrow"
+    "permalink": "/docs/interacting-with-escrow"
   },
   "next": {
     "title": "References",
-    "permalink": "/guide/docs/references"
+    "permalink": "/docs/references"
   }
 }

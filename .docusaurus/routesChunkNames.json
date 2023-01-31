@@ -1,169 +1,173 @@
 {
-  "/guide/blog/archive-c11": {
+  "/blog/archive-f4c": {
     "component": "9e4087bc",
-    "archive": "a4b1bc35"
+    "archive": "b2f554cd"
   },
-  "/guide/docs-3b9": {
+  "/docs-58a": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/guide/docs/become-a-member-21e": {
+  "/docs/become-a-member-8e5": {
     "component": "17896441",
     "content": "0dcc4417"
   },
-  "/guide/docs/become-an-apprentice-9fe": {
+  "/docs/become-a-sidekick-b93": {
     "component": "17896441",
-    "content": "f4cbc76d"
+    "content": "0bf8f3eb"
   },
-  "/guide/docs/champion-a-member-0fe": {
+  "/docs/champion-a-member-a6b": {
     "component": "17896441",
     "content": "8cf67af2"
   },
-  "/guide/docs/client-instructions-b66": {
+  "/docs/client-instructions-ca9": {
     "component": "17896441",
     "content": "737e94be"
   },
-  "/guide/docs/commission-process-6b8": {
+  "/docs/commission-process-42f": {
     "component": "17896441",
     "content": "1a8603ea"
   },
-  "/guide/docs/community-forum-6fe": {
+  "/docs/community-forum-96f": {
     "component": "17896441",
     "content": "6e62a65b"
   },
-  "/guide/docs/community-meetings-648": {
+  "/docs/community-meetings-729": {
     "component": "17896441",
     "content": "464e8d49"
   },
-  "/guide/docs/community-overview-6b1": {
+  "/docs/community-overview-23e": {
     "component": "17896441",
     "content": "e1a64283"
   },
-  "/guide/docs/community-social-media-258": {
+  "/docs/community-social-media-602": {
     "component": "17896441",
     "content": "1a6fe82b"
   },
-  "/guide/docs/convert-client-submission-472": {
+  "/docs/convert-client-submission-6c8": {
     "component": "17896441",
     "content": "e9b7d890"
   },
-  "/guide/docs/discord-bots-cc1": {
+  "/docs/discord-bots-33b": {
     "component": "17896441",
     "content": "122897a5"
   },
-  "/guide/docs/discord-channels-330": {
+  "/docs/discord-channels-e66": {
     "component": "17896441",
     "content": "f86e6e1d"
   },
-  "/guide/docs/discord-etiquette-aff": {
+  "/docs/discord-etiquette-e3b": {
     "component": "17896441",
     "content": "77820b1d"
   },
-  "/guide/docs/discord-getting-started-daf": {
+  "/docs/discord-getting-started-1a8": {
     "component": "17896441",
     "content": "21570101"
   },
-  "/guide/docs/discord-navigation-help-61f": {
+  "/docs/discord-navigation-help-195": {
     "component": "17896441",
     "content": "8288cb81"
   },
-  "/guide/docs/dispute-cf0": {
+  "/docs/dispute-dc8": {
     "component": "17896441",
     "content": "b008331d"
   },
-  "/guide/docs/doc1-ac4": {
+  "/docs/doc1-392": {
     "component": "17896441",
     "content": "b2f90839"
   },
-  "/guide/docs/doc2-dc5": {
+  "/docs/doc2-fd3": {
     "component": "17896441",
     "content": "df361e2b"
   },
-  "/guide/docs/glossary-c00": {
+  "/docs/glossary-241": {
     "component": "17896441",
     "content": "e747ec83"
   },
-  "/guide/docs/happy-path-efd": {
+  "/docs/happy-path-922": {
     "component": "17896441",
     "content": "c878a486"
   },
-  "/guide/docs/helping-docs-bd4": {
+  "/docs/helping-docs-9d7": {
     "component": "17896441",
     "content": "134889ee"
   },
-  "/guide/docs/how-does-it-work-e85": {
+  "/docs/how-does-it-work-b93": {
     "component": "17896441",
     "content": "41555449"
   },
-  "/guide/docs/interacting-with-escrow-59b": {
+  "/docs/interacting-with-escrow-27a": {
     "component": "17896441",
     "content": "55052e8a"
   },
-  "/guide/docs/join-a-raid-0de": {
+  "/docs/join-a-campaign-e33": {
     "component": "17896441",
     "content": "73ce1262"
   },
-  "/guide/docs/lead-a-save-b9d": {
+  "/docs/lead-a-save-e76": {
     "component": "17896441",
     "content": "6cce66fa"
   },
-  "/guide/docs/learn-about-web3-b33": {
+  "/docs/learn-about-web3-e36": {
     "component": "17896441",
     "content": "b17e14c3"
   },
-  "/guide/docs/mdx-d15": {
+  "/docs/mdx-955": {
     "component": "17896441",
     "content": "ce3e42ad"
   },
-  "/guide/docs/migration-to-xdai-68f": {
+  "/docs/migration-to-xdai-f5c": {
     "component": "17896441",
     "content": "ad520703"
   },
-  "/guide/docs/overview-5df": {
+  "/docs/overview-cd5": {
     "component": "17896441",
     "content": "495031a0"
   },
-  "/guide/docs/overview-code-of-conduct-fdd": {
+  "/docs/overview-code-of-conduct-bb2": {
     "component": "17896441",
     "content": "6706f97c"
   },
-  "/guide/docs/overview-molochv2-primer-aa8": {
+  "/docs/overview-covenant-4da": {
     "component": "17896441",
-    "content": "50a576c9"
+    "content": "d2b48c27"
   },
-  "/guide/docs/overview-roles-93b": {
+  "/docs/overview-molochv3-primer-661": {
+    "component": "17896441",
+    "content": "eda1b8eb"
+  },
+  "/docs/overview-roles-1b6": {
     "component": "17896441",
     "content": "afa8499f"
   },
-  "/guide/docs/overview-save-guild-shares-e74": {
+  "/docs/overview-save-guild-shares-a29": {
     "component": "17896441",
     "content": "6a94809b"
   },
-  "/guide/docs/proposal-types-c08": {
+  "/docs/proposal-types-6c7": {
     "component": "17896441",
     "content": "7bc48272"
   },
-  "/guide/docs/references-66f": {
+  "/docs/references-ea6": {
     "component": "17896441",
     "content": "33a69f45"
   },
-  "/guide/docs/requesting-payment-c0f": {
+  "/docs/requesting-payment-8e5": {
     "component": "17896441",
     "content": "b6bdd299"
   },
-  "/guide/docs/rips-5f8": {
+  "/docs/rips-04d": {
     "component": "17896441",
     "content": "fe1eead2"
   },
-  "/guide/docs/shipped-16f": {
+  "/docs/shipped-1ce": {
     "component": "17896441",
     "content": "dd17fcd0"
   },
-  "/guide/docs/summon-a-SAVE-party-2d9": {
+  "/docs/summon-a-SAVE-party-528": {
     "component": "17896441",
     "content": "0c600e74"
   },
-  "/guide/-131": {
+  "/-deb": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   }

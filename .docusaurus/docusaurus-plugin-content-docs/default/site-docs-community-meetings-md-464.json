@@ -6,7 +6,7 @@
   "source": "@site/docs/community-meetings.md",
   "sourceDirName": ".",
   "slug": "/community-meetings",
-  "permalink": "/guide/docs/community-meetings",
+  "permalink": "/docs/community-meetings",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-meetings.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/guide/docs/community-overview"
+    "permalink": "/docs/community-overview"
   },
   "next": {
     "title": "community-forum",
-    "permalink": "/guide/docs/community-forum"
+    "permalink": "/docs/community-forum"
   }
 }

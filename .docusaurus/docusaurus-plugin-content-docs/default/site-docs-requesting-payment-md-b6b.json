@@ -6,7 +6,7 @@
   "source": "@site/docs/requesting-payment.md",
   "sourceDirName": ".",
   "slug": "/requesting-payment",
-  "permalink": "/guide/docs/requesting-payment",
+  "permalink": "/docs/requesting-payment",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/requesting-payment.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Glossary",
-    "permalink": "/guide/docs/glossary"
+    "permalink": "/docs/glossary"
   },
   "next": {
     "title": "Migration to xDAI",
-    "permalink": "/guide/docs/migration-to-xdai"
+    "permalink": "/docs/migration-to-xdai"
   }
 }

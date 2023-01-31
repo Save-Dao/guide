@@ -2,11 +2,11 @@
   "unversionedId": "discord-channels",
   "id": "discord-channels",
   "title": "Channels",
-  "description": "Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/G2sXhQCpGg)",
+  "description": "Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/5Cnkpgrgvd)",
   "source": "@site/docs/discord-channels.md",
   "sourceDirName": ".",
   "slug": "/discord-channels",
-  "permalink": "/guide/docs/discord-channels",
+  "permalink": "/docs/discord-channels",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-channels.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/guide/docs/discord-getting-started"
+    "permalink": "/docs/discord-getting-started"
   },
   "next": {
     "title": "Navigation",
-    "permalink": "/guide/docs/discord-navigation-help"
+    "permalink": "/docs/discord-navigation-help"
   }
 }

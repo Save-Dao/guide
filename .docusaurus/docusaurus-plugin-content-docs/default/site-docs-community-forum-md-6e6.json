@@ -6,7 +6,7 @@
   "source": "@site/docs/community-forum.md",
   "sourceDirName": ".",
   "slug": "/community-forum",
-  "permalink": "/guide/docs/community-forum",
+  "permalink": "/docs/community-forum",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-forum.md",
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Meetings",
-    "permalink": "/guide/docs/community-meetings"
+    "permalink": "/docs/community-meetings"
   },
   "next": {
     "title": "Socials + Media",
-    "permalink": "/guide/docs/community-social-media"
+    "permalink": "/docs/community-social-media"
   }
 }

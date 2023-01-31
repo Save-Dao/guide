@@ -6,7 +6,7 @@
   "source": "@site/docs/doc1.md",
   "sourceDirName": ".",
   "slug": "/doc1",
-  "permalink": "/guide/docs/doc1",
+  "permalink": "/docs/doc1",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/doc1.md",
   "tags": [],
   "version": "current",

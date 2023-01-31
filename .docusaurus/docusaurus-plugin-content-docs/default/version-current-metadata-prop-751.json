@@ -15,25 +15,25 @@
           {
             "type": "link",
             "label": "Intro",
-            "href": "/guide/docs/overview",
+            "href": "/docs/overview",
             "docId": "overview"
           },
           {
             "type": "link",
             "label": "Code of Conduct",
-            "href": "/guide/docs/overview-code-of-conduct",
+            "href": "/docs/overview-code-of-conduct",
             "docId": "overview-code-of-conduct"
           },
           {
             "type": "link",
-            "label": "Moloch V2",
-            "href": "/guide/docs/overview-molochv2-primer",
-            "docId": "overview-molochv2-primer"
+            "label": "Moloch V3",
+            "href": "/docs/overview-molochv3-primer",
+            "docId": "overview-molochv3-primer"
           },
           {
             "type": "link",
             "label": "Roles",
-            "href": "/guide/docs/overview-roles",
+            "href": "/docs/overview-roles",
             "docId": "overview-roles"
           }
         ],
@@ -47,19 +47,19 @@
           {
             "type": "link",
             "label": "Become an Apprentice",
-            "href": "/guide/docs/become-an-apprentice",
-            "docId": "become-an-apprentice"
+            "href": "/docs/become-a-sidekick",
+            "docId": "become-a-sidekick"
           },
           {
             "type": "link",
             "label": "Become a Member",
-            "href": "/guide/docs/become-a-member",
+            "href": "/docs/become-a-member",
             "docId": "become-a-member"
           },
           {
             "type": "link",
             "label": "Champion a New Member",
-            "href": "/guide/docs/champion-a-member",
+            "href": "/docs/champion-a-member",
             "docId": "champion-a-member"
           }
         ],
@@ -73,13 +73,13 @@
           {
             "type": "link",
             "label": "Convert Client Submission Into a SAVE",
-            "href": "/guide/docs/convert-client-submission",
+            "href": "/docs/convert-client-submission",
             "docId": "convert-client-submission"
           },
           {
             "type": "link",
             "label": "Commission Process",
-            "href": "/guide/docs/commission-process",
+            "href": "/docs/commission-process",
             "docId": "commission-process"
           },
           {
@@ -89,37 +89,37 @@
               {
                 "type": "link",
                 "label": "How Does It Work?",
-                "href": "/guide/docs/how-does-it-work",
+                "href": "/docs/how-does-it-work",
                 "docId": "how-does-it-work"
               },
               {
                 "type": "link",
                 "label": "Happy Path",
-                "href": "/guide/docs/happy-path",
+                "href": "/docs/happy-path",
                 "docId": "happy-path"
               },
               {
                 "type": "link",
                 "label": "In Case of Dispute",
-                "href": "/guide/docs/dispute",
+                "href": "/docs/dispute",
                 "docId": "dispute"
               },
               {
                 "type": "link",
                 "label": "Interacting With the Escrow",
-                "href": "/guide/docs/interacting-with-escrow",
+                "href": "/docs/interacting-with-escrow",
                 "docId": "interacting-with-escrow"
               },
               {
                 "type": "link",
                 "label": "Instructions for Client Payment",
-                "href": "/guide/docs/client-instructions",
+                "href": "/docs/client-instructions",
                 "docId": "client-instructions"
               },
               {
                 "type": "link",
                 "label": "References",
-                "href": "/guide/docs/references",
+                "href": "/docs/references",
                 "docId": "references"
               }
             ],
@@ -129,19 +129,19 @@
           {
             "type": "link",
             "label": "Summon a SAVE Party",
-            "href": "/guide/docs/summon-a-SAVE-party",
+            "href": "/docs/summon-a-SAVE-party",
             "docId": "summon-a-SAVE-party"
           },
           {
             "type": "link",
             "label": "Lead a Save",
-            "href": "/guide/docs/lead-a-save",
+            "href": "/docs/lead-a-save",
             "docId": "lead-a-save"
           },
           {
             "type": "link",
             "label": "Ship a SAVE",
-            "href": "/guide/docs/shipped",
+            "href": "/docs/shipped",
             "docId": "shipped"
           }
         ],
@@ -155,13 +155,13 @@
           {
             "type": "link",
             "label": "RIPs",
-            "href": "/guide/docs/rips",
+            "href": "/docs/rips",
             "docId": "rips"
           },
           {
             "type": "link",
             "label": "Proposal Types",
-            "href": "/guide/docs/proposal-types",
+            "href": "/docs/proposal-types",
             "docId": "proposal-types"
           }
         ],
@@ -175,31 +175,31 @@
           {
             "type": "link",
             "label": "Etiquette",
-            "href": "/guide/docs/discord-etiquette",
+            "href": "/docs/discord-etiquette",
             "docId": "discord-etiquette"
           },
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/guide/docs/discord-getting-started",
+            "href": "/docs/discord-getting-started",
             "docId": "discord-getting-started"
           },
           {
             "type": "link",
             "label": "Channels",
-            "href": "/guide/docs/discord-channels",
+            "href": "/docs/discord-channels",
             "docId": "discord-channels"
           },
           {
             "type": "link",
             "label": "Navigation",
-            "href": "/guide/docs/discord-navigation-help",
+            "href": "/docs/discord-navigation-help",
             "docId": "discord-navigation-help"
           },
           {
             "type": "link",
             "label": "Discord Bots",
-            "href": "/guide/docs/discord-bots",
+            "href": "/docs/discord-bots",
             "docId": "discord-bots"
           }
         ],
@@ -213,25 +213,25 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/guide/docs/community-overview",
+            "href": "/docs/community-overview",
             "docId": "community-overview"
           },
           {
             "type": "link",
             "label": "Meetings",
-            "href": "/guide/docs/community-meetings",
+            "href": "/docs/community-meetings",
             "docId": "community-meetings"
           },
           {
             "type": "link",
             "label": "community-forum",
-            "href": "/guide/docs/community-forum",
+            "href": "/docs/community-forum",
             "docId": "community-forum"
           },
           {
             "type": "link",
             "label": "Socials + Media",
-            "href": "/guide/docs/community-social-media",
+            "href": "/docs/community-social-media",
             "docId": "community-social-media"
           }
         ],
@@ -245,31 +245,31 @@
           {
             "type": "link",
             "label": "Learn About Web3",
-            "href": "/guide/docs/learn-about-web3",
+            "href": "/docs/learn-about-web3",
             "docId": "learn-about-web3"
           },
           {
             "type": "link",
             "label": "Glossary",
-            "href": "/guide/docs/glossary",
+            "href": "/docs/glossary",
             "docId": "glossary"
           },
           {
             "type": "link",
             "label": "Getting Paid",
-            "href": "/guide/docs/requesting-payment",
+            "href": "/docs/requesting-payment",
             "docId": "requesting-payment"
           },
           {
             "type": "link",
             "label": "Migration to xDAI",
-            "href": "/guide/docs/migration-to-xdai",
+            "href": "/docs/migration-to-xdai",
             "docId": "migration-to-xdai"
           },
           {
             "type": "link",
             "label": "How Tos",
-            "href": "/guide/docs/helping-docs",
+            "href": "/docs/helping-docs",
             "docId": "helping-docs"
           }
         ],
@@ -282,12 +282,12 @@
     "become-a-member": {
       "id": "become-a-member",
       "title": "Become a Member",
-      "description": "To advance from an Apprentice to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, there are a few Your champion will need to put down a stake of $save tokens. See the Champion a New Member for how this works.",
+      "description": "To advance from an Sidekick to a Member, you will need to be Championed by an existing Save Dao Member. Once you find a Champion, you can stake \"Super\" $SAVEx Tokens with he/she.  These wrapped erc20 (Ethereum) tokens are integral to our platform.  We call these \"super\", based on the recent implementation of the superfluid protocol. See the Champion a New Member for how this works.",
       "sidebar": "howSidebar"
     },
-    "become-an-apprentice": {
-      "id": "become-an-apprentice",
-      "title": "Become an Apprentice",
+    "become-a-sidekick": {
+      "id": "become-a-sidekick",
+      "title": "Become a Sidekick",
       "description": "Save Dao has instituted a new onboarding process through the utilization of Cohorts.",
       "sidebar": "howSidebar"
     },
@@ -330,7 +330,7 @@
     "community-social-media": {
       "id": "community-social-media",
       "title": "Socials + Media",
-      "description": "Here you can find the official Raid Guild social & Media channels.",
+      "description": "Here you can find the official Adbongo social & Media channels.",
       "sidebar": "howSidebar"
     },
     "convert-client-submission": {
@@ -348,7 +348,7 @@
     "discord-channels": {
       "id": "discord-channels",
       "title": "Channels",
-      "description": "Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/G2sXhQCpGg)",
+      "description": "Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/5Cnkpgrgvd)",
       "sidebar": "howSidebar"
     },
     "discord-etiquette": {
@@ -360,7 +360,7 @@
     "discord-getting-started": {
       "id": "discord-getting-started",
       "title": "Getting Started",
-      "description": "You can join the Discord [here] (https://discord.gg/G2sXhQCpGg), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels.",
+      "description": "You can join the Discord [here] (https://discord.gg/5Cnkpgrgvd), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels.",
       "sidebar": "howSidebar"
     },
     "discord-navigation-help": {
@@ -372,7 +372,7 @@
     "dispute": {
       "id": "dispute",
       "title": "In Case of Dispute",
-      "description": "-   If the client loses confidence in the raid party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn.",
+      "description": "-   If the client loses confidence in the campaign party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn.",
       "sidebar": "howSidebar"
     },
     "doc1": {
@@ -388,7 +388,7 @@
     "glossary": {
       "id": "glossary",
       "title": "Glossary",
-      "description": "A running list of Raid Guild nomenclature. Always evolving, forever in progress…",
+      "description": "A running list of Adbongo nomenclature. Always evolving, forever in progress…",
       "sidebar": "howSidebar"
     },
     "happy-path": {
@@ -406,7 +406,7 @@
     "how-does-it-work": {
       "id": "how-does-it-work",
       "title": "How Does It Work?",
-      "description": "Raid Guild has developed an on-chain escrow service to facilitate payments from clients. Using the Raid Guild escrow:",
+      "description": "Adbongo has developed an on-chain escrow service to facilitate payments from clients. Using the Adbongo escrow:",
       "sidebar": "howSidebar"
     },
     "interacting-with-escrow": {
@@ -415,10 +415,10 @@
       "description": "-   As the warning above states, _never send ETH or ERC20 tokens directly to the escrow contract_. They will be lost forever. All deposits into an escrow must happen via the Deposit function. This can be done easily via the escrow app.",
       "sidebar": "howSidebar"
     },
-    "join-a-raid": {
-      "id": "join-a-raid",
-      "title": "Join a Raid",
-      "description": "Any member with at least one Share is eligible to join an existing Raid."
+    "join-a-campaign": {
+      "id": "join-a-campaign",
+      "title": "Join a campaign",
+      "description": "Any member with at least one Share is eligible to join an existing campaign."
     },
     "lead-a-save": {
       "id": "lead-a-save",
@@ -446,7 +446,7 @@
     "overview": {
       "id": "overview",
       "title": "Intro",
-      "description": "Greetings Golden Ager!",
+      "description": "Greetings!",
       "sidebar": "howSidebar"
     },
     "overview-code-of-conduct": {
@@ -455,16 +455,21 @@
       "description": "Before we dive in, here is a quick code of conduct to keep in mind:",
       "sidebar": "howSidebar"
     },
-    "overview-molochv2-primer": {
-      "id": "overview-molochv2-primer",
-      "title": "Moloch V2",
-      "description": "Save Dao utilizes the colony.io framework. A great overview of Moloch V2 and it’s benefits can be found here.",
+    "overview-covenant": {
+      "id": "overview-covenant",
+      "title": "Covenant",
+      "description": "(b) Trust Members shall have the rights, powers and privileges that are possible to be taken"
+    },
+    "overview-molochv3-primer": {
+      "id": "overview-molochv3-primer",
+      "title": "Moloch V3",
+      "description": "Save Dao utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found here.",
       "sidebar": "howSidebar"
     },
     "overview-roles": {
       "id": "overview-roles",
       "title": "Roles",
-      "description": "Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.",
+      "description": "Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different campaigns, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.",
       "sidebar": "howSidebar"
     },
     "overview-save-guild-shares": {
@@ -493,7 +498,7 @@
     "rips": {
       "id": "rips",
       "title": "RIPs",
-      "description": "Apply for RIP Funding",
+      "description": "Apply for SIP Funding. (THIS COMES LATER IN THE DAO)",
       "sidebar": "howSidebar"
     },
     "shipped": {

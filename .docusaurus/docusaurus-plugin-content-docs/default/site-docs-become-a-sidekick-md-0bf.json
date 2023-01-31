@@ -1,0 +1,27 @@
+{
+  "unversionedId": "become-a-sidekick",
+  "id": "become-a-sidekick",
+  "title": "Become a Sidekick",
+  "description": "Save Dao has instituted a new onboarding process through the utilization of Cohorts.",
+  "source": "@site/docs/become-a-sidekick.md",
+  "sourceDirName": ".",
+  "slug": "/become-a-sidekick",
+  "permalink": "/docs/become-a-sidekick",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/become-a-sidekick.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "become-a-sidekick",
+    "title": "Become a Sidekick",
+    "sidebar_label": "Become an Apprentice"
+  },
+  "sidebar": "howSidebar",
+  "previous": {
+    "title": "Roles",
+    "permalink": "/docs/overview-roles"
+  },
+  "next": {
+    "title": "Become a Member",
+    "permalink": "/docs/become-a-member"
+  }
+}

@@ -2,11 +2,11 @@
   "unversionedId": "glossary",
   "id": "glossary",
   "title": "Glossary",
-  "description": "A running list of Raid Guild nomenclature. Always evolving, forever in progress…",
+  "description": "A running list of Adbongo nomenclature. Always evolving, forever in progress…",
   "source": "@site/docs/glossary.md",
   "sourceDirName": ".",
   "slug": "/glossary",
-  "permalink": "/guide/docs/glossary",
+  "permalink": "/docs/glossary",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/glossary.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Learn About Web3",
-    "permalink": "/guide/docs/learn-about-web3"
+    "permalink": "/docs/learn-about-web3"
   },
   "next": {
     "title": "Getting Paid",
-    "permalink": "/guide/docs/requesting-payment"
+    "permalink": "/docs/requesting-payment"
   }
 }

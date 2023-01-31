@@ -2,11 +2,11 @@
   "unversionedId": "discord-getting-started",
   "id": "discord-getting-started",
   "title": "Getting Started",
-  "description": "You can join the Discord [here] (https://discord.gg/G2sXhQCpGg), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels.",
+  "description": "You can join the Discord [here] (https://discord.gg/5Cnkpgrgvd), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels.",
   "source": "@site/docs/discord-getting-started.md",
   "sourceDirName": ".",
   "slug": "/discord-getting-started",
-  "permalink": "/guide/docs/discord-getting-started",
+  "permalink": "/docs/discord-getting-started",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/discord-getting-started.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Etiquette",
-    "permalink": "/guide/docs/discord-etiquette"
+    "permalink": "/docs/discord-etiquette"
   },
   "next": {
     "title": "Channels",
-    "permalink": "/guide/docs/discord-channels"
+    "permalink": "/docs/discord-channels"
   }
 }

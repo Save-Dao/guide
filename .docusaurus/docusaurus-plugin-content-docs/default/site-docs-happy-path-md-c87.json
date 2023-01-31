@@ -6,7 +6,7 @@
   "source": "@site/docs/happy-path.md",
   "sourceDirName": ".",
   "slug": "/happy-path",
-  "permalink": "/guide/docs/happy-path",
+  "permalink": "/docs/happy-path",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/happy-path.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "How Does It Work?",
-    "permalink": "/guide/docs/how-does-it-work"
+    "permalink": "/docs/how-does-it-work"
   },
   "next": {
     "title": "In Case of Dispute",
-    "permalink": "/guide/docs/dispute"
+    "permalink": "/docs/dispute"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "unversionedId": "overview-covenant",
+  "id": "overview-covenant",
+  "title": "Covenant",
+  "description": "(b) Trust Members shall have the rights, powers and privileges that are possible to be taken",
+  "source": "@site/docs/overview-covenant.md",
+  "sourceDirName": ".",
+  "slug": "/overview-covenant",
+  "permalink": "/docs/overview-covenant",
+  "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-covenant.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overview-covenant",
+    "title": "Covenant",
+    "sidebar_label": "Covenant"
+  }
+}

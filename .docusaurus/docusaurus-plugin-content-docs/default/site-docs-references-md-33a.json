@@ -6,7 +6,7 @@
   "source": "@site/docs/references.md",
   "sourceDirName": ".",
   "slug": "/references",
-  "permalink": "/guide/docs/references",
+  "permalink": "/docs/references",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/references.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Instructions for Client Payment",
-    "permalink": "/guide/docs/client-instructions"
+    "permalink": "/docs/client-instructions"
   },
   "next": {
     "title": "Summon a SAVE Party",
-    "permalink": "/guide/docs/summon-a-SAVE-party"
+    "permalink": "/docs/summon-a-SAVE-party"
   }
 }

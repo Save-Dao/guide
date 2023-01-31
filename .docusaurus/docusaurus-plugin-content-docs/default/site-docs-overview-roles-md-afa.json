@@ -2,11 +2,11 @@
   "unversionedId": "overview-roles",
   "id": "overview-roles",
   "title": "Roles",
-  "description": "Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.",
+  "description": "Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different campaigns, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.",
   "source": "@site/docs/overview-roles.md",
   "sourceDirName": ".",
   "slug": "/overview-roles",
-  "permalink": "/guide/docs/overview-roles",
+  "permalink": "/docs/overview-roles",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-roles.md",
   "tags": [],
   "version": "current",
@@ -17,11 +17,11 @@
   },
   "sidebar": "howSidebar",
   "previous": {
-    "title": "Moloch V2",
-    "permalink": "/guide/docs/overview-molochv2-primer"
+    "title": "Moloch V3",
+    "permalink": "/docs/overview-molochv3-primer"
   },
   "next": {
     "title": "Become an Apprentice",
-    "permalink": "/guide/docs/become-an-apprentice"
+    "permalink": "/docs/become-a-sidekick"
   }
 }

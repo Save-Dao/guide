@@ -2,11 +2,11 @@
   "unversionedId": "overview",
   "id": "overview",
   "title": "Intro",
-  "description": "Greetings Golden Ager!",
+  "description": "Greetings!",
   "source": "@site/docs/overview-intro.md",
   "sourceDirName": ".",
   "slug": "/overview",
-  "permalink": "/guide/docs/overview",
+  "permalink": "/docs/overview",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/overview-intro.md",
   "tags": [],
   "version": "current",
@@ -18,6 +18,6 @@
   "sidebar": "howSidebar",
   "next": {
     "title": "Code of Conduct",
-    "permalink": "/guide/docs/overview-code-of-conduct"
+    "permalink": "/docs/overview-code-of-conduct"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/lead-a-save.md",
   "sourceDirName": ".",
   "slug": "/lead-a-save",
-  "permalink": "/guide/docs/lead-a-save",
+  "permalink": "/docs/lead-a-save",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/lead-a-save.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Summon a SAVE Party",
-    "permalink": "/guide/docs/summon-a-SAVE-party"
+    "permalink": "/docs/summon-a-SAVE-party"
   },
   "next": {
     "title": "Ship a SAVE",
-    "permalink": "/guide/docs/shipped"
+    "permalink": "/docs/shipped"
   }
 }

@@ -2,11 +2,11 @@
   "unversionedId": "community-social-media",
   "id": "community-social-media",
   "title": "Socials + Media",
-  "description": "Here you can find the official Raid Guild social & Media channels.",
+  "description": "Here you can find the official Adbongo social & Media channels.",
   "source": "@site/docs/community-social-media.md",
   "sourceDirName": ".",
   "slug": "/community-social-media",
-  "permalink": "/guide/docs/community-social-media",
+  "permalink": "/docs/community-social-media",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/community-social-media.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "community-forum",
-    "permalink": "/guide/docs/community-forum"
+    "permalink": "/docs/community-forum"
   },
   "next": {
     "title": "Learn About Web3",
-    "permalink": "/guide/docs/learn-about-web3"
+    "permalink": "/docs/learn-about-web3"
   }
 }

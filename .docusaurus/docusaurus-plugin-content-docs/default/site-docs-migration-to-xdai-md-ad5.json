@@ -6,7 +6,7 @@
   "source": "@site/docs/migration-to-xdai.md",
   "sourceDirName": ".",
   "slug": "/migration-to-xdai",
-  "permalink": "/guide/docs/migration-to-xdai",
+  "permalink": "/docs/migration-to-xdai",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/migration-to-xdai.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Getting Paid",
-    "permalink": "/guide/docs/requesting-payment"
+    "permalink": "/docs/requesting-payment"
   },
   "next": {
     "title": "How Tos",
-    "permalink": "/guide/docs/helping-docs"
+    "permalink": "/docs/helping-docs"
   }
 }

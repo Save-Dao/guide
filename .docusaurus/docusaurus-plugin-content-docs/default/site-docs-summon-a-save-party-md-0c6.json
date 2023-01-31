@@ -6,7 +6,7 @@
   "source": "@site/docs/summon-a-SAVE-party.md",
   "sourceDirName": ".",
   "slug": "/summon-a-SAVE-party",
-  "permalink": "/guide/docs/summon-a-SAVE-party",
+  "permalink": "/docs/summon-a-SAVE-party",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/summon-a-SAVE-party.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "References",
-    "permalink": "/guide/docs/references"
+    "permalink": "/docs/references"
   },
   "next": {
     "title": "Lead a Save",
-    "permalink": "/guide/docs/lead-a-save"
+    "permalink": "/docs/lead-a-save"
   }
 }

@@ -2,11 +2,11 @@
   "unversionedId": "dispute",
   "id": "dispute",
   "title": "In Case of Dispute",
-  "description": "-   If the client loses confidence in the raid party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn.",
+  "description": "-   If the client loses confidence in the campaign party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn.",
   "source": "@site/docs/dispute.md",
   "sourceDirName": ".",
   "slug": "/dispute",
-  "permalink": "/guide/docs/dispute",
+  "permalink": "/docs/dispute",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/dispute.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "Happy Path",
-    "permalink": "/guide/docs/happy-path"
+    "permalink": "/docs/happy-path"
   },
   "next": {
     "title": "Interacting With the Escrow",
-    "permalink": "/guide/docs/interacting-with-escrow"
+    "permalink": "/docs/interacting-with-escrow"
   }
 }

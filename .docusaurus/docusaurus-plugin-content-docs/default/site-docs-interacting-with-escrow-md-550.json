@@ -6,7 +6,7 @@
   "source": "@site/docs/interacting-with-escrow.md",
   "sourceDirName": ".",
   "slug": "/interacting-with-escrow",
-  "permalink": "/guide/docs/interacting-with-escrow",
+  "permalink": "/docs/interacting-with-escrow",
   "editUrl": "https://github.com/raid-guild/handbook/edit/master/docs/interacting-with-escrow.md",
   "tags": [],
   "version": "current",
@@ -18,10 +18,10 @@
   "sidebar": "howSidebar",
   "previous": {
     "title": "In Case of Dispute",
-    "permalink": "/guide/docs/dispute"
+    "permalink": "/docs/dispute"
   },
   "next": {
     "title": "Instructions for Client Payment",
-    "permalink": "/guide/docs/client-instructions"
+    "permalink": "/docs/client-instructions"
   }
 }

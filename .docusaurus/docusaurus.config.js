@@ -6,8 +6,8 @@ Modify the docusaurus.config.js file at your site's root instead.
 export default {
   "title": "Save Guide",
   "tagline": "Magical Internet Organization Grimoire",
-  "url": "https://github.com",
-  "baseUrl": "/guide/",
+  "url": "http://guide.adbongo.io/",
+  "baseUrl": "/",
   "favicon": "img/sd-icon.png",
   "onBrokenLinks": "ignore",
   "organizationName": "Save-Dao",
@@ -29,7 +29,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2022 SAVE, DAO",
+      "copyright": "Copyright © 2023 SAVE, DAO",
       "links": []
     },
     "colorMode": {
@@ -56,11 +56,11 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\latin\\Documents\\guide\\sidebars.js",
+          "sidebarPath": "C:\\Users\\latin\\Documents\\SaveDAO - GitHub\\guide\\sidebars.js",
           "editUrl": "https://github.com/raid-guild/handbook/edit/master/"
         },
         "theme": {
-          "customCss": "C:\\Users\\latin\\Documents\\guide\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\latin\\Documents\\SaveDAO - GitHub\\guide\\src\\css\\custom.css"
         }
       }
     ]
