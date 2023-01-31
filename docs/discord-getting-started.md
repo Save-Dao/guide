@@ -3,9 +3,9 @@ id: discord-getting-started
 title: Getting Started
 sidebar_label: Getting Started
 ---
-You can join the Discord [here] (https://discord.gg/G2sXhQCpGg), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels. 
+You can join the Discord [here] (https://discord.gg/5Cnkpgrgvd), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels. 
 
-If you are **not** a Save Dao member, we recommend you check out `[Becoming An Apprentice](https://handbook.raidDao.org/docs/discord-getting-started)` first.  If admitted to the Save Dao as an apprentice, you’ll have the opportunity to prove your talent and level up in the DAO as you complete tasks, unlocking access to new private channels.  This will allow you to take on bigger Raids and contribute to shaping the Dao as we know it today.
+If you are **not** a Save Dao member, we recommend you check out `[Becoming An Apprentice](https://handbook.raidDao.org/docs/discord-getting-started)` first.  If admitted to the Save Dao as an apprentice, you’ll have the opportunity to prove your talent and level up in the DAO as you complete tasks, unlocking access to new private channels.  This will allow you to take on bigger Campaigns and contribute to shaping the Dao as we know it today.
 
 ### Starting in Discord
 

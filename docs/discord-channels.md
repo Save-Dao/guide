@@ -4,7 +4,7 @@ title: Channels
 sidebar_label: Channels
 ---
 
-Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here:  (https://discord.gg/G2sXhQCpGg)
+Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here:  (https://discord.gg/5Cnkpgrgvd)
 
 ## Public
 

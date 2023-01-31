@@ -11,5 +11,5 @@ When you're perusing and communicating to Save Dao members in the discord, it is
 2. Do not spam members by tagging @Save Dao Member more than once weekly.
 3. Do not join or attempt to join member only meetings unless invited.
 4. Make your best effort to post materials in channels that are relevant to the purpose of your post.
-5. Engage in constructive communication with fellow Raiders, this means being respectful of others' ideas or opinions even though you may disagree with them.
+5. Engage in constructive communication with fellow Campaigners, this means being respectful of others' ideas or opinions even though you may disagree with them.
 

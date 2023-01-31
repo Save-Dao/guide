@@ -4,7 +4,7 @@ title: Glossary
 sidebar_label: Glossary
 ---
 
-A running list of Raid Guild nomenclature. Always evolving, forever in progress…
+A running list of Adbongo nomenclature. Always evolving, forever in progress…
 
 #### Async
 
@@ -24,7 +24,7 @@ A smart contract account which can call other smart contracts on behalf of the D
 
 #### pTokens
 
-Personal Tokens. These are tokens which are unique to specific Raiders which can be used to Summon them for a given Raid or feedback on a Proposal. Specific pTokens are Whitelisted by the DAO and stored in the War Chest.
+Personal Tokens. These are tokens which are unique to specific campaigners which can be used to Summon them for a given campaign or feedback on a Proposal. Specific pTokens are Whitelisted by the DAO and stored in the War Chest.
 
 #### Proposal
 
@@ -34,13 +34,13 @@ A means of requesting something (shares, funding, token whitelists, etc.) from t
 
 The act of exiting shares from the DAO in exchange for a pro-rata share of the underlying capital bank relative to Share Value.
 
-#### Raid
+#### campaign
 
-A project. Raids can be internal or external, such as improving internal operations or building a public good.
+A project. campaigns can be internal or external, such as improving internal operations or building a public good.
 
-#### Raid Party
+#### campaign Party
 
-A team or collective of Guilders working together on a Raid.
+A team or collective of Guilders working together on a campaign.
 
 #### Round Table
 
@@ -52,18 +52,18 @@ Voting Shares in the DAO. Members can ragequit Shares to withdraw a proportional
 
 #### Share Value
 
-The value of 1 share at any given time. In the case of Raid Guild, Share Value is denominated in wxDAI and can be determined by dividing the outstanding amount of shares by the total amount of WETH (and all other Whitelisted Tokens) in the War Chest.
+The value of 1 share at any given time. In the case of Adbongo, Share Value is denominated in wxDAI and can be determined by dividing the outstanding amount of shares by the total amount of WETH (and all other Whitelisted Tokens) in the War Chest.
 
 #### Spoils
 
-A portion of funds paid out to a Raid Party (10%) that are required to be tributed back to the Raid Guild War Chest
+A portion of funds paid out to a campaign Party (10%) that are required to be tributed back to the Adbongo War Chest
 
 #### Tavern
 
 A public meeting place for newcomers and veteran adventurers. The tavern is open to all and typically serves as the entry point into the community.
 
-Raid Guild contains a Front Tavern for inbound and outbound leads and a Back Tavern to gain technical insight and scope out potential Raids.
+Adbongo contains a Front Tavern for inbound and outbound leads and a Back Tavern to gain technical insight and scope out potential campaigns.
 
 #### War Chest
 
-The name of Raid Guild’s DAO smart contract. The War Chest stores all funds for the Guild and can only be distributed if a vote passes with consensus from the DAO.
+The name of Adbongo’s DAO smart contract. The War Chest stores all funds for the Guild and can only be distributed if a vote passes with consensus from the DAO.

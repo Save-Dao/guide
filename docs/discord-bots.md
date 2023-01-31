@@ -6,7 +6,7 @@ sidebar_label: Discord Bots
 
 _Do Save Dao Bots Dream of Electric Tweets?_
 
-The Save Dao relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Save Dao Discord Server.]  (https://discord.gg/G2sXhQCpGg)
+The Save Dao relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Save Dao Discord Server.]  (https://discord.gg/5Cnkpgrgvd)
 
 
 ## MEE6
@@ -22,7 +22,7 @@ https://mee6.xyz/premium## MEE6
 
 ## Wick
 
-Discord Security Bot made to protect servers from raids, nukes and more things!
+Discord Security Bot made to protect servers from campaigns, nukes and more things!
 https://wickbot.com/
 
 ## xDai Faucet
@@ -39,7 +39,7 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
 Website: https://carl.gg/
 Docs: https://docs.carl.gg/
-Support: https://discord.gg/S2ZkBTnd8X
+Support: https://discord.gg/5Cnkpgrgvd
 Partner bots: https://botlabs.gg/bots
 
 ## Haus Bot

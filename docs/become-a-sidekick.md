@@ -22,7 +22,7 @@ All new entries will start as an sidekick. Sidekicks can be upgraded to a member
 5. Once you prove yourself with the skills and reputation, a member of the Dao will signal your eligibility to become a Member.
 6. Submit a Membership Proposal for 1 Share with 0 Token Tribute in [Save Dao Guild](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
 7. Once the proposal passes, you will be given access to member exclusive channels.
-8. For the remaining 99 shares to get yourself promoted from an Sidekick to Member, you will need to have worked on one Save or RIP (See How to Join a Save) and pledge with funds you earn while raiding or have at your disposal through other means.
+8. For the remaining 99 shares to get yourself promoted from an Sidekick to Member, you will need to have worked on one Save or RIP (See How to Join a Save) and pledge with funds you earn while campaign or have at your disposal through other means.
 9. A Member will oversee your progress and once it's done, you will be championed in <span class='channels'>#champions</span> as a signal for your remaining 99 share proposal.
 10. Submit a Member Proposal for 44 Shares with 440 wxDAI Tribute in [Save Dao DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
 11. Once the proposal passes, you are now a full Save Dao Member.
