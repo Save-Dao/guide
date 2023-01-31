@@ -16,7 +16,7 @@ Members can make a number of different proposals including:
 
 ### Proposal Process
 
-To submit a proposal, navigate to the [Save DAO](https://app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7) and select “View Proposals” followed by New Proposal.
+To submit a proposal, navigate to the [Adbongo Org](https://app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7) and select “View Proposals” followed by New Proposal.
 
 Select the Proposal Type (described above) and fill in all fields. Here are some of the things you’ll want to keep in mind when filling out a proposal.
 
@@ -24,7 +24,7 @@ Select the Proposal Type (described above) and fill in all fields. Here are some
 -   **DESCRIPTION:** Anything you believe is relevant to your proposal. The shorter the description the better, and the important piece here is the _WHAT_ you are asking for and _WHY_.
 -   **LINK:** Whatever information gives us the best context to review your proposal and make an informed decision.
 -   **APPLICANT** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.  
--   **PAYMENT REQUESTED:** The number of Shares requested. Every Save dao Share is equal to 10 xDAI. New membership proposals may request a maximum of 44 SAVEx shares for a total of 440 wxDAI.
+-   **PAYMENT REQUESTED:** The number of Shares requested. Every Adbongo Org Share is equal to 10 xDAI. New membership proposals may request a maximum of 44 SAVEx shares for a total of 440 wxDAI.
 -   **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to 20% of the total amount requested.
 -   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 10 xDAI/share.
 -   **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the Treasury. (Tribute is relevant to Membership and Funding Proposals).

@@ -12,7 +12,7 @@ const features = [
         imageUrl: "img/crown.png",
         description: (
             <>
-                Learn how Save Dao is structured into different guilds and
+                Learn how Adbongo Org is structured into different guilds and
                 ranks and how you can make your journey from Apprentice to
                 Master.
             </>
@@ -34,7 +34,7 @@ const features = [
         description: (
             <>
                 How we collaborate and coordinate is the most important thing
-                for Save Dao's success. Inside you'll find the tools and
+                for Adbongo Org's success. Inside you'll find the tools and
                 processes we use to keep organized.
             </>
         ),

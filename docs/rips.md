@@ -6,7 +6,7 @@ sidebar_label: RIPs
 
 ### Apply for SIP Funding. (THIS COMES LATER IN THE DAO)
 
-Save dao Improvement Proposals, commonly referred to as “SIPs”, are an invaluable piece to ensuring that Save dao operates at its fullest capacity 24/7.  
+Adbongo Org Improvement Proposals, commonly referred to as “SIPs”, are an invaluable piece to ensuring that Adbongo Org operates at its fullest capacity 24/7.  
 
 SIPs are generally focused on dao internal operations, but in some cases, SIPs have manifested in the dao building open-source tools for the wider web3 ecosystem.  
 
@@ -14,7 +14,7 @@ SIPs are generally focused on dao internal operations, but in some cases, SIPs h
 
 If this excites you, we encourage you to keep reading! 
 
-Looking to receive funding for a Save dao Improvement Proposal (SIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
+Looking to receive funding for a Adbongo Org Improvement Proposal (SIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
 
 -   Create an issue on the [SIPs Repo TBD](git link) detailing why it benefits the DAO and how it will be executed.
 -   Add the new issue to the [SIP Requests TBD](git link) Project (or ask a keeper).

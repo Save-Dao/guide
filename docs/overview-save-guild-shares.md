@@ -4,7 +4,7 @@ title: Save Guild Shares
 sidebar_label: Save Guild Shares
 ---
 
-All Shares are non-transferable and unique to the DAO being used (in this case Save Dao).
+All Shares are non-transferable and unique to the DAO being used (in this case Adbongo Org).
 
 Each share represents a pro-rata claim on the underlying capital pool and can be exchanged at any time using the Ragequit feature.
 

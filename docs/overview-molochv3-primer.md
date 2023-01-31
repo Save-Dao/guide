@@ -4,7 +4,7 @@ title: Moloch V3
 sidebar_label: Moloch V3
 ---
 
-Save Dao utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found [here](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc).
+Adbongo Org utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found [here](https://daohaus.mirror.xyz/U_JQtheSzdpRFqQwf9Ow3LgLNG0WMZ6ibAyrjWDu_fc).
 
 We were initially inspired by Adbongo, which offers "campaigns" to help build the tech of worthy projects.  We have expanded this concept to include "legal engineering" per inspiration from "Lexdao".  This project is a symbiosis of these and more. We call our "campaign" a "save" because we imagine more of "justice league" approach than a viking campaigner concept (but hats off to Adbongo). 
 
