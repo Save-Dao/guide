@@ -189,8 +189,8 @@ export default [
         'sidebar': "howSidebar"
       },
       {
-        path: '/guide/docs/overview-molochv2-primer',
-        component: ComponentCreator('/guide/docs/overview-molochv2-primer','aa8'),
+        path: '/guide/docs/overview-molochv3-primer',
+        component: ComponentCreator('/guide/docs/overview-molochv3-primer','aa8'),
         exact: true,
         'sidebar': "howSidebar"
       },
