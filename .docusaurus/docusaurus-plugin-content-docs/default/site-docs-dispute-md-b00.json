@@ -14,14 +14,5 @@
     "id": "dispute",
     "title": "In Case of Dispute",
     "sidebar_label": "In Case of Dispute"
-  },
-  "sidebar": "howSidebar",
-  "previous": {
-    "title": "Happy Path",
-    "permalink": "/docs/happy-path"
-  },
-  "next": {
-    "title": "Interacting With the Escrow",
-    "permalink": "/docs/interacting-with-escrow"
   }
 }

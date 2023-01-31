@@ -2,7 +2,7 @@
   "unversionedId": "migration-to-xdai",
   "id": "migration-to-xdai",
   "title": "Migration to xDAI",
-  "description": "On February 18, 2021, Save Dao migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.",
+  "description": "On February 18, 2021, Adbongo Org migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.",
   "source": "@site/docs/migration-to-xdai.md",
   "sourceDirName": ".",
   "slug": "/migration-to-xdai",

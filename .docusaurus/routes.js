@@ -10,7 +10,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','58a'),
+    component: ComponentCreator('/docs','192'),
     routes: [
       {
         path: '/docs/become-a-member',
@@ -32,9 +32,8 @@ export default [
       },
       {
         path: '/docs/client-instructions',
-        component: ComponentCreator('/docs/client-instructions','ca9'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/client-instructions','885'),
+        exact: true
       },
       {
         path: '/docs/commission-process',
@@ -104,9 +103,8 @@ export default [
       },
       {
         path: '/docs/dispute',
-        component: ComponentCreator('/docs/dispute','dc8'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/dispute','108'),
+        exact: true
       },
       {
         path: '/docs/doc1',
@@ -126,9 +124,8 @@ export default [
       },
       {
         path: '/docs/happy-path',
-        component: ComponentCreator('/docs/happy-path','922'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/happy-path','e1b'),
+        exact: true
       },
       {
         path: '/docs/helping-docs',
@@ -138,15 +135,13 @@ export default [
       },
       {
         path: '/docs/how-does-it-work',
-        component: ComponentCreator('/docs/how-does-it-work','b93'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/how-does-it-work','0ab'),
+        exact: true
       },
       {
         path: '/docs/interacting-with-escrow',
-        component: ComponentCreator('/docs/interacting-with-escrow','27a'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/interacting-with-escrow','16d'),
+        exact: true
       },
       {
         path: '/docs/join-a-campaign',
@@ -218,9 +213,8 @@ export default [
       },
       {
         path: '/docs/references',
-        component: ComponentCreator('/docs/references','ea6'),
-        exact: true,
-        'sidebar': "howSidebar"
+        component: ComponentCreator('/docs/references','70f'),
+        exact: true
       },
       {
         path: '/docs/requesting-payment',

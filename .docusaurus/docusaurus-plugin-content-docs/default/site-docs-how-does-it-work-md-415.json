@@ -14,14 +14,5 @@
     "id": "how-does-it-work",
     "title": "How Does It Work?",
     "sidebar_label": "How Does It Work?"
-  },
-  "sidebar": "howSidebar",
-  "previous": {
-    "title": "Commission Process",
-    "permalink": "/docs/commission-process"
-  },
-  "next": {
-    "title": "Happy Path",
-    "permalink": "/docs/happy-path"
   }
 }

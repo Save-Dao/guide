@@ -83,50 +83,6 @@
             "docId": "commission-process"
           },
           {
-            "type": "category",
-            "label": "Escrow",
-            "items": [
-              {
-                "type": "link",
-                "label": "How Does It Work?",
-                "href": "/docs/how-does-it-work",
-                "docId": "how-does-it-work"
-              },
-              {
-                "type": "link",
-                "label": "Happy Path",
-                "href": "/docs/happy-path",
-                "docId": "happy-path"
-              },
-              {
-                "type": "link",
-                "label": "In Case of Dispute",
-                "href": "/docs/dispute",
-                "docId": "dispute"
-              },
-              {
-                "type": "link",
-                "label": "Interacting With the Escrow",
-                "href": "/docs/interacting-with-escrow",
-                "docId": "interacting-with-escrow"
-              },
-              {
-                "type": "link",
-                "label": "Instructions for Client Payment",
-                "href": "/docs/client-instructions",
-                "docId": "client-instructions"
-              },
-              {
-                "type": "link",
-                "label": "References",
-                "href": "/docs/references",
-                "docId": "references"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
             "type": "link",
             "label": "Summon a SAVE Party",
             "href": "/docs/summon-a-SAVE-party",
@@ -300,8 +256,7 @@
     "client-instructions": {
       "id": "client-instructions",
       "title": "Instructions for Client Payment",
-      "description": "The Save party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:",
-      "sidebar": "howSidebar"
+      "description": "The Save party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:"
     },
     "commission-process": {
       "id": "commission-process",
@@ -348,19 +303,19 @@
     "discord-channels": {
       "id": "discord-channels",
       "title": "Channels",
-      "description": "Within the Save Dao Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/5Cnkpgrgvd)",
+      "description": "Within the Adbongo Org Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.  You can join discord here//discord.gg/5Cnkpgrgvd)",
       "sidebar": "howSidebar"
     },
     "discord-etiquette": {
       "id": "discord-etiquette",
       "title": "Etiquette",
-      "description": "Before we get down and dirty, you should know that discord is the central communications hub for all things Save Dao.  With that in mind, there are some things you should know before you jump into the discord and begin taking up projects.",
+      "description": "Before we get down and dirty, you should know that discord is the central communications hub for all things Adbongo Org.  With that in mind, there are some things you should know before you jump into the discord and begin taking up projects.",
       "sidebar": "howSidebar"
     },
     "discord-getting-started": {
       "id": "discord-getting-started",
       "title": "Getting Started",
-      "description": "You can join the Discord [here] (https://discord.gg/5Cnkpgrgvd), If you have been assigned a “Save Dao Member” role, then you will be able to access all of Save Dao’s internal channels.",
+      "description": "You can join the Discord [here] (https://discord.gg/5Cnkpgrgvd), If you have been assigned a “Adbongo Org Member” role, then you will be able to access all of Adbongo Org’s internal channels.",
       "sidebar": "howSidebar"
     },
     "discord-navigation-help": {
@@ -372,8 +327,7 @@
     "dispute": {
       "id": "dispute",
       "title": "In Case of Dispute",
-      "description": "-   If the client loses confidence in the campaign party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn.",
-      "sidebar": "howSidebar"
+      "description": "-   If the client loses confidence in the campaign party at any time, they may Lock the remaining funds in escrow so that they cannot be released or withdrawn."
     },
     "doc1": {
       "id": "doc1",
@@ -394,8 +348,7 @@
     "happy-path": {
       "id": "happy-path",
       "title": "Happy Path",
-      "description": "&nbsp; WARNING: Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.",
-      "sidebar": "howSidebar"
+      "description": "&nbsp; WARNING: Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable."
     },
     "helping-docs": {
       "id": "helping-docs",
@@ -406,14 +359,12 @@
     "how-does-it-work": {
       "id": "how-does-it-work",
       "title": "How Does It Work?",
-      "description": "Adbongo has developed an on-chain escrow service to facilitate payments from clients. Using the Adbongo escrow:",
-      "sidebar": "howSidebar"
+      "description": "Adbongo has developed an on-chain escrow service to facilitate payments from clients. Using the Adbongo escrow:"
     },
     "interacting-with-escrow": {
       "id": "interacting-with-escrow",
       "title": "Interacting With the Escrow",
-      "description": "-   As the warning above states, _never send ETH or ERC20 tokens directly to the escrow contract_. They will be lost forever. All deposits into an escrow must happen via the Deposit function. This can be done easily via the escrow app.",
-      "sidebar": "howSidebar"
+      "description": "-   As the warning above states, _never send ETH or ERC20 tokens directly to the escrow contract_. They will be lost forever. All deposits into an escrow must happen via the Deposit function. This can be done easily via the escrow app."
     },
     "join-a-campaign": {
       "id": "join-a-campaign",
@@ -440,7 +391,7 @@
     "migration-to-xdai": {
       "id": "migration-to-xdai",
       "title": "Migration to xDAI",
-      "description": "On February 18, 2021, Save Dao migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.",
+      "description": "On February 18, 2021, Adbongo Org migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.",
       "sidebar": "howSidebar"
     },
     "overview": {
@@ -463,7 +414,7 @@
     "overview-molochv3-primer": {
       "id": "overview-molochv3-primer",
       "title": "Moloch V3",
-      "description": "Save Dao utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found here.",
+      "description": "Adbongo Org utilizes the daohaus framework. A great overview of Moloch V3 and it’s benefits can be found here.",
       "sidebar": "howSidebar"
     },
     "overview-roles": {
@@ -475,7 +426,7 @@
     "overview-save-guild-shares": {
       "id": "overview-save-guild-shares",
       "title": "Save Guild Shares",
-      "description": "All Shares are non-transferable and unique to the DAO being used (in this case Save Dao)."
+      "description": "All Shares are non-transferable and unique to the DAO being used (in this case Adbongo Org)."
     },
     "proposal-types": {
       "id": "proposal-types",
@@ -486,8 +437,7 @@
     "references": {
       "id": "references",
       "title": "References",
-      "description": "-   Save dao on Daohaus//app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7",
-      "sidebar": "howSidebar"
+      "description": "-   Adbongo Org on Daohaus//app.daohaus.club/dao/0x64/0x48cf4a3c08603f196be531ee1558b6aa641733c7"
     },
     "requesting-payment": {
       "id": "requesting-payment",

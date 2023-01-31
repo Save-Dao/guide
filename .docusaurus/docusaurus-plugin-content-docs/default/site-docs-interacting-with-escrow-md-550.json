@@ -14,14 +14,5 @@
     "id": "interacting-with-escrow",
     "title": "Interacting With the Escrow",
     "sidebar_label": "Interacting With the Escrow"
-  },
-  "sidebar": "howSidebar",
-  "previous": {
-    "title": "In Case of Dispute",
-    "permalink": "/docs/dispute"
-  },
-  "next": {
-    "title": "Instructions for Client Payment",
-    "permalink": "/docs/client-instructions"
   }
 }

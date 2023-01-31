@@ -14,14 +14,5 @@
     "id": "happy-path",
     "title": "Happy Path",
     "sidebar_label": "Happy Path"
-  },
-  "sidebar": "howSidebar",
-  "previous": {
-    "title": "How Does It Work?",
-    "permalink": "/docs/how-does-it-work"
-  },
-  "next": {
-    "title": "In Case of Dispute",
-    "permalink": "/docs/dispute"
   }
 }

@@ -27,8 +27,7 @@
             },
             {
               "id": "client-instructions",
-              "path": "/docs/client-instructions",
-              "sidebar": "howSidebar"
+              "path": "/docs/client-instructions"
             },
             {
               "id": "commission-process",
@@ -87,8 +86,7 @@
             },
             {
               "id": "dispute",
-              "path": "/docs/dispute",
-              "sidebar": "howSidebar"
+              "path": "/docs/dispute"
             },
             {
               "id": "doc1",
@@ -105,8 +103,7 @@
             },
             {
               "id": "happy-path",
-              "path": "/docs/happy-path",
-              "sidebar": "howSidebar"
+              "path": "/docs/happy-path"
             },
             {
               "id": "helping-docs",
@@ -115,13 +112,11 @@
             },
             {
               "id": "how-does-it-work",
-              "path": "/docs/how-does-it-work",
-              "sidebar": "howSidebar"
+              "path": "/docs/how-does-it-work"
             },
             {
               "id": "interacting-with-escrow",
-              "path": "/docs/interacting-with-escrow",
-              "sidebar": "howSidebar"
+              "path": "/docs/interacting-with-escrow"
             },
             {
               "id": "join-a-campaign",
@@ -181,8 +176,7 @@
             },
             {
               "id": "references",
-              "path": "/docs/references",
-              "sidebar": "howSidebar"
+              "path": "/docs/references"
             },
             {
               "id": "requesting-payment",

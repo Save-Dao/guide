@@ -14,14 +14,5 @@
     "id": "client-instructions",
     "title": "Instructions for Client Payment",
     "sidebar_label": "Instructions for Client Payment"
-  },
-  "sidebar": "howSidebar",
-  "previous": {
-    "title": "Interacting With the Escrow",
-    "permalink": "/docs/interacting-with-escrow"
-  },
-  "next": {
-    "title": "References",
-    "permalink": "/docs/references"
   }
 }
